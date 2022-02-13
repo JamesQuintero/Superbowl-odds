@@ -5,6 +5,8 @@ Sports bookies gives odds and allow betting on the superbowl game ending on cert
 
 For example, bookie might give odds of +2500 for square 7,0, meaning they think final score ending in 7-0 has a 3.85% chance of occuring. But historical scores might show that score has a 5% chance of occuring (+1900). It'll be profitable to bet on that score if the odds given are >+1900, and they are.
 
+### [See results for Superbowl LVI 2022](./results.md)
+
 
 ### Data
 
