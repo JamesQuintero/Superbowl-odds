@@ -2,6 +2,7 @@ import json
 import os
 import random
 
+from Utils import Utils
 from AnalyzeHeatmap import AnalyzeHeatmap
 
 """
@@ -13,24 +14,26 @@ class SimulateBetting:
     squares_best_odds = {}
     squares_all_odds = {}
     analyzer = None
+    utils = None
 
     def __init__(self):
         self.analyzer = AnalyzeHeatmap()
+        self.utils = Utils()
         self.load()
 
     """
     Loads probabilities
     """
     def load(self):
-        self.analyzer.transform_bovada_odds()
+        # self.analyzer.transform_bovada_odds()
 
         #Loads calculated odds
         self.squares_best_odds = self.analyzer.analyze()
         _, raw_squares_all_odds = self.analyzer.get_heatmap_likelihoods()
-        self.squares_all_odds = { row['score']: {"probability": row['probability'], "given_odds": self.analyzer.get_odds_from_percentage_likelihood(row['probability'])} for row in raw_squares_all_odds }
+        self.squares_all_odds = { row['score']: {"probability": row['probability'], "given_odds": self.utils.get_odds_from_percentage_likelihood(row['probability'])} for row in raw_squares_all_odds }
 
         #Loads bookie (Bovada) odds
-        bovada_squares = self.analyzer.read_json(self.analyzer.bovada_odds_json_path)
+        bovada_squares = self.utils.read_json(self.analyzer.bovada_odds_json_path)
         self.teams_playing = bovada_squares['teams']
         self.bovada_squares_odds = bovada_squares['odds']
 
@@ -101,7 +104,8 @@ class SimulateBetting:
 
         print()
         print()
-        print("Amount you should bet on certain scores. {} vs {}".format(self.teams_playing[0], self.teams_playing[1]))
+        # print("Amount you should bet on certain scores. {} vs {}".format(self.teams_playing[0], self.teams_playing[1]))
+        print("Amount you should bet on certain scores.")
         for score in self.squares_all_odds:
             print("{}): ${}".format(score, self.get_amount_to_bet(base_bet_amount, self.squares_best_odds[score]['given_odds'], self.squares_best_odds[score]['calculated_odds'])))
         print()

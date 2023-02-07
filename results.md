@@ -5,7 +5,13 @@
 Bovada.lv provides better opportunities for squares game, where the last digit of the score points to a coordinate on a grid and you can bet on points on that grid. Certain scores and their score combinations are more likly than others, so it's prudent to figure out the likelihood of each square, the odds Bovada provides to bet on it, and whether it's profitable to place that bet. 
 
 
-## Live betting result pending conclusion of Superbowl LVI 2022.
+## Live betting results:
+Bets placed: 
+| Bet placed | Amount $ | Won amount |
+| ---------- | ---------- | ---------- |
+|  |  |  |
+
+
 
 ## Actual bets placed: 
 ```

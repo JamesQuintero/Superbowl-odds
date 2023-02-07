@@ -1,0 +1,3604 @@
+{
+    "results": [
+      {
+        "id": -1675514812,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 10 - Eagles 7",
+          "sign": "/qSaoA=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514811,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 13 - Eagles 10",
+          "sign": "yUYexQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514810,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 16 - Eagles 10",
+          "sign": "uspQgg=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514809,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 16 - Eagles 13",
+          "sign": "H4ypmw=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514808,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 16 - Eagles 14",
+          "sign": "Hd1Z7Q=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514807,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 17 - Eagles 10",
+          "sign": "ntdStw=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514806,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 17 - Eagles 13",
+          "sign": "RLk6dA=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514805,
+        "odds": 126,
+        "name": {
+          "value": "Chiefs 17 - Eagles 14",
+          "sign": "+Duuag=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514804,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 17 - Eagles 16",
+          "sign": "CzOSsA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514803,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 19 - Eagles 13",
+          "sign": "K9zuug=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514802,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 19 - Eagles 16",
+          "sign": "xBflkA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514801,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 19 - Eagles 17",
+          "sign": "TTASZw=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514800,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 20 - Eagles 10",
+          "sign": "wRIqiA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514799,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 20 - Eagles 13",
+          "sign": "ZFTTkQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514798,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 20 - Eagles 14",
+          "sign": "p/7WVQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514797,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 20 - Eagles 16",
+          "sign": "lIgoOw=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514796,
+        "odds": 67,
+        "name": {
+          "value": "Chiefs 20 - Eagles 17",
+          "sign": "3dEdeA=="
+        },
+        "visibility": "Visible",
+        "numerator": 66,
+        "denominator": 1,
+        "americanOdds": 6600
+      },
+      {
+        "id": -1675514795,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 20 - Eagles 19",
+          "sign": "xetVHw=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514794,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 21 - Eagles 13",
+          "sign": "PuR3eA=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514793,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 21 - Eagles 14",
+          "sign": "gmbjZg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514792,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 21 - Eagles 16",
+          "sign": "D8N5YA=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514791,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 21 - Eagles 17",
+          "sign": "huSOlw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514790,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 21 - Eagles 19",
+          "sign": "4fZXKg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514789,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 21 - Eagles 20",
+          "sign": "mQpW+A=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514788,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 22 - Eagles 17",
+          "sign": "6MnnxA=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514787,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 22 - Eagles 19",
+          "sign": "8POvow=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514786,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 22 - Eagles 20",
+          "sign": "9yc/qw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514785,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 23 - Eagles 10",
+          "sign": "rrp03Q=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514784,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 23 - Eagles 13",
+          "sign": "csqtCg=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514783,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 23 - Eagles 16",
+          "sign": "4ik3+g=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514782,
+        "odds": 126,
+        "name": {
+          "value": "Chiefs 23 - Eagles 17",
+          "sign": "FCZR1w=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514781,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 23 - Eagles 19",
+          "sign": "DBwZsA=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514780,
+        "odds": 67,
+        "name": {
+          "value": "Chiefs 23 - Eagles 20",
+          "sign": "tJ7a1g=="
+        },
+        "visibility": "Visible",
+        "numerator": 66,
+        "denominator": 1,
+        "americanOdds": 6600
+      },
+      {
+        "id": -1675514779,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 23 - Eagles 21",
+          "sign": "PbktIQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514778,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 24 - Eagles 10",
+          "sign": "UOMVWg=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514777,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 24 - Eagles 13",
+          "sign": "9aXsQw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514776,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 24 - Eagles 14",
+          "sign": "9/QcNQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514775,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 24 - Eagles 16",
+          "sign": "xILiWw=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514774,
+        "odds": 101,
+        "name": {
+          "value": "Chiefs 24 - Eagles 17",
+          "sign": "Mo2Edg=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514773,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 24 - Eagles 19",
+          "sign": "KrfMEQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514772,
+        "odds": 126,
+        "name": {
+          "value": "Chiefs 24 - Eagles 20",
+          "sign": "kjUPdw=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514771,
+        "odds": 101,
+        "name": {
+          "value": "Chiefs 24 - Eagles 21",
+          "sign": "GxL4gA=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514770,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 24 - Eagles 22",
+          "sign": "wXyQQw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514769,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 24 - Eagles 23",
+          "sign": "SFtntA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514768,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 25 - Eagles 24",
+          "sign": "co89fQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514767,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 26 - Eagles 16",
+          "sign": "TMYkhQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514766,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 26 - Eagles 19",
+          "sign": "veT6Tw=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514765,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 26 - Eagles 20",
+          "sign": "xRj7nQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514764,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 26 - Eagles 21",
+          "sign": "jEHO3g=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514763,
+        "odds": 126,
+        "name": {
+          "value": "Chiefs 26 - Eagles 23",
+          "sign": "vzcwsA=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514762,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 26 - Eagles 24",
+          "sign": "fJ01dA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514761,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 27 - Eagles 10",
+          "sign": "PMQTBQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514760,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 27 - Eagles 13",
+          "sign": "J1GOdA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514759,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 27 - Eagles 14",
+          "sign": "m9Maag=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514758,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 27 - Eagles 16",
+          "sign": "14113g=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514757,
+        "odds": 126,
+        "name": {
+          "value": "Chiefs 27 - Eagles 17",
+          "sign": "XqqCKQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514756,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 27 - Eagles 19",
+          "sign": "hu4I+g=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514755,
+        "odds": 101,
+        "name": {
+          "value": "Chiefs 27 - Eagles 20",
+          "sign": "/hIJKA=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514754,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 27 - Eagles 21",
+          "sign": "CB1vBQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514753,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 27 - Eagles 22",
+          "sign": "rVuWHA=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514752,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 27 - Eagles 23",
+          "sign": "gtfB0Q=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514751,
+        "odds": 51,
+        "name": {
+          "value": "Chiefs 27 - Eagles 24",
+          "sign": "PlVVzw=="
+        },
+        "visibility": "Visible",
+        "numerator": 50,
+        "denominator": 1,
+        "americanOdds": 5000
+      },
+      {
+        "id": -1675514750,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 27 - Eagles 25",
+          "sign": "yFoz4g=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514749,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 27 - Eagles 26",
+          "sign": "bRzK+w=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514748,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 28 - Eagles 20",
+          "sign": "sgXrAQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514747,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 28 - Eagles 21",
+          "sign": "OyIc9g=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514746,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 28 - Eagles 23",
+          "sign": "d3xzQg=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514745,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 28 - Eagles 24",
+          "sign": "y/7nXA=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514744,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 28 - Eagles 25",
+          "sign": "/Ap0ww=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514743,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 28 - Eagles 26",
+          "sign": "WUyN2g=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514742,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 28 - Eagles 27",
+          "sign": "r0Pr9w=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514741,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 29 - Eagles 23",
+          "sign": "LEngrQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514740,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 29 - Eagles 24",
+          "sign": "ULW2Bw=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514739,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 29 - Eagles 26",
+          "sign": "Y8NIaQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514738,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 29 - Eagles 27",
+          "sign": "lcwuRA=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514737,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 30 - Eagles 10",
+          "sign": "dPYNaw=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514736,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 30 - Eagles 13",
+          "sign": "0j+seA=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514735,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 30 - Eagles 14",
+          "sign": "br04Zg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514734,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 30 - Eagles 16",
+          "sign": "IuNX0g=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514733,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 30 - Eagles 17",
+          "sign": "q8SgJQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514732,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 30 - Eagles 20",
+          "sign": "FGvbpA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514731,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 30 - Eagles 23",
+          "sign": "sS0ivQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514730,
+        "odds": 101,
+        "name": {
+          "value": "Chiefs 30 - Eagles 24",
+          "sign": "cocneQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514729,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 30 - Eagles 26",
+          "sign": "QfHZFw=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514728,
+        "odds": 81,
+        "name": {
+          "value": "Chiefs 30 - Eagles 27",
+          "sign": "dgVKiA=="
+        },
+        "visibility": "Visible",
+        "numerator": 80,
+        "denominator": 1,
+        "americanOdds": 8000
+      },
+      {
+        "id": -1675514727,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 30 - Eagles 28",
+          "sign": "+A8FmA=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514726,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 31 - Eagles 10",
+          "sign": "7DIEOg=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514725,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 31 - Eagles 13",
+          "sign": "SXT9Iw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514724,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 31 - Eagles 14",
+          "sign": "NYiriQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514723,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 31 - Eagles 16",
+          "sign": "Bv5V5w=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514722,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 31 - Eagles 17",
+          "sign": "8PEzyg=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514721,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 31 - Eagles 20",
+          "sign": "jyCK/w=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514720,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 31 - Eagles 21",
+          "sign": "fzFdxg=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514719,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 31 - Eagles 23",
+          "sign": "TEejqA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514718,
+        "odds": 101,
+        "name": {
+          "value": "Chiefs 31 - Eagles 24",
+          "sign": "j+2mbA=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514717,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 31 - Eagles 25",
+          "sign": "BspRmw=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514716,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 31 - Eagles 26",
+          "sign": "Y/JqNg=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514715,
+        "odds": 126,
+        "name": {
+          "value": "Chiefs 31 - Eagles 27",
+          "sign": "6tWdwQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514714,
+        "odds": 126,
+        "name": {
+          "value": "Chiefs 31 - Eagles 28",
+          "sign": "G/dDCw=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514713,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 31 - Eagles 29",
+          "sign": "ktC0/A=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514712,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 31 - Eagles 30",
+          "sign": "1p3ndA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514711,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 33 - Eagles 17",
+          "sign": "o8gZOA=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514710,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 33 - Eagles 20",
+          "sign": "ozEx1w=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514709,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 33 - Eagles 23",
+          "sign": "BnfIzg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514708,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 33 - Eagles 26",
+          "sign": "VuqQig=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514707,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 33 - Eagles 27",
+          "sign": "381nfQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514706,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 33 - Eagles 30",
+          "sign": "XVZ5oA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514705,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 33 - Eagles 31",
+          "sign": "1HGOVw=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514704,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 34 - Eagles 10",
+          "sign": "hL1k5Q=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514703,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 34 - Eagles 13",
+          "sign": "Ifud/A=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514702,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 34 - Eagles 14",
+          "sign": "4lGYOA=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514701,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 34 - Eagles 16",
+          "sign": "0SdmVg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514700,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 34 - Eagles 17",
+          "sign": "mH5TFQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514699,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 34 - Eagles 20",
+          "sign": "56/qIA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514698,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 34 - Eagles 21",
+          "sign": "EaCMDQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514697,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 34 - Eagles 23",
+          "sign": "ItZyYw=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514696,
+        "odds": 151,
+        "name": {
+          "value": "Chiefs 34 - Eagles 24",
+          "sign": "IIeCFQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514695,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 34 - Eagles 26",
+          "sign": "E/F8ew=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514694,
+        "odds": 126,
+        "name": {
+          "value": "Chiefs 34 - Eagles 27",
+          "sign": "5f4aVg=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514693,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 34 - Eagles 28",
+          "sign": "a/RVRg=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514692,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 34 - Eagles 30",
+          "sign": "xySnZQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514691,
+        "odds": 101,
+        "name": {
+          "value": "Chiefs 34 - Eagles 31",
+          "sign": "TgNQkg=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514690,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 35 - Eagles 27",
+          "sign": "33Hf5Q=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514689,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 35 - Eagles 31",
+          "sign": "tPJXlQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514688,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 37 - Eagles 24",
+          "sign": "4tcqgQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514687,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 37 - Eagles 27",
+          "sign": "R5HTmA=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514686,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 37 - Eagles 30",
+          "sign": "xQrNRQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514685,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 37 - Eagles 31",
+          "sign": "TC06sg=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514684,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 37 - Eagles 34",
+          "sign": "HLBi9g=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514683,
+        "odds": 301,
+        "name": {
+          "value": "Chiefs 38 - Eagles 17",
+          "sign": "DkHd+g=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514682,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 38 - Eagles 20",
+          "sign": "Drj1FQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514681,
+        "odds": 251,
+        "name": {
+          "value": "Chiefs 38 - Eagles 24",
+          "sign": "CGtokg=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514680,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 38 - Eagles 27",
+          "sign": "E/714w=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514679,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 38 - Eagles 30",
+          "sign": "7k165A=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514678,
+        "odds": 201,
+        "name": {
+          "value": "Chiefs 38 - Eagles 31",
+          "sign": "GEIcyQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514677,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 38 - Eagles 35",
+          "sign": "HpGBTg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514676,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 41 - Eagles 20",
+          "sign": "J52a8Q=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514675,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 41 - Eagles 24",
+          "sign": "IU4Hdg=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514674,
+        "odds": 401,
+        "name": {
+          "value": "Chiefs 41 - Eagles 27",
+          "sign": "+yBvtQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514673,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 41 - Eagles 31",
+          "sign": "kKPnxQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514672,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 41 - Eagles 34",
+          "sign": "A88lPw=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514671,
+        "odds": 501,
+        "name": {
+          "value": "Chiefs 41 - Eagles 38",
+          "sign": "N5Rjtg=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514670,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 13 - Chiefs 10",
+          "sign": "6BWwWQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514669,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 16 - Chiefs 10",
+          "sign": "5LFvxA=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514668,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 16 - Chiefs 13",
+          "sign": "gYlUaQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514667,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 16 - Chiefs 14",
+          "sign": "PQvAdw=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514666,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 17 - Chiefs 10",
+          "sign": "wSla9w=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514665,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 17 - Chiefs 13",
+          "sign": "ZG+j7g=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514664,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 17 - Chiefs 14",
+          "sign": "Zj5TmA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514663,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 17 - Chiefs 16",
+          "sign": "VUit9g=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514662,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 19 - Chiefs 13",
+          "sign": "Co9AJg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514661,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 19 - Chiefs 16",
+          "sign": "mmza1g=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514660,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 19 - Chiefs 17",
+          "sign": "0zXvlQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514659,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 20 - Chiefs 10",
+          "sign": "XJiPcA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514658,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 20 - Chiefs 13",
+          "sign": "hvbnsw=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514657,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 20 - Chiefs 14",
+          "sign": "OnRzrQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514656,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 20 - Chiefs 16",
+          "sign": "cDStDQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514655,
+        "odds": 67,
+        "name": {
+          "value": "Eagles 20 - Chiefs 17",
+          "sign": "+RNa+g=="
+        },
+        "visibility": "Visible",
+        "numerator": 66,
+        "denominator": 1,
+        "americanOdds": 6600
+      },
+      {
+        "id": -1675514654,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 20 - Chiefs 19",
+          "sign": "ngGDRw=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514653,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 21 - Chiefs 13",
+          "sign": "GiYw+g=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514652,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 21 - Chiefs 14",
+          "sign": "ZtpmUA=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514651,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 21 - Chiefs 16",
+          "sign": "VayYPg=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514650,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 21 - Chiefs 17",
+          "sign": "o6P+Ew=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514649,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 21 - Chiefs 19",
+          "sign": "u5m2dA=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514648,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 21 - Chiefs 20",
+          "sign": "fbbTzg=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514647,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 22 - Chiefs 16",
+          "sign": "WjunMQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514646,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 22 - Chiefs 17",
+          "sign": "rDTBHA=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514645,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 22 - Chiefs 19",
+          "sign": "tA6Jew=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514644,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 22 - Chiefs 20",
+          "sign": "DIxKHQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514643,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 23 - Chiefs 10",
+          "sign": "VREBaw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514642,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 23 - Chiefs 13",
+          "sign": "j39pqA=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514641,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 23 - Chiefs 16",
+          "sign": "H5zzWA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514640,
+        "odds": 101,
+        "name": {
+          "value": "Eagles 23 - Chiefs 17",
+          "sign": "lTRcpQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514639,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 23 - Chiefs 19",
+          "sign": "jQ4Uwg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514638,
+        "odds": 81,
+        "name": {
+          "value": "Eagles 23 - Chiefs 20",
+          "sign": "itqEyg=="
+        },
+        "visibility": "Visible",
+        "numerator": 80,
+        "denominator": 1,
+        "americanOdds": 8000
+      },
+      {
+        "id": -1675514637,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 23 - Chiefs 21",
+          "sign": "A/1zPQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514636,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 24 - Chiefs 7",
+          "sign": "G5pA/A=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514635,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 24 - Chiefs 10",
+          "sign": "zuboqA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514634,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 24 - Chiefs 13",
+          "sign": "FIiAaw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514633,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 24 - Chiefs 14",
+          "sign": "qAoUdQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514632,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 24 - Chiefs 16",
+          "sign": "Ja+Ocw=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514631,
+        "odds": 101,
+        "name": {
+          "value": "Eagles 24 - Chiefs 17",
+          "sign": "rIh5hA=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514630,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 24 - Chiefs 19",
+          "sign": "y5qgOQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514629,
+        "odds": 126,
+        "name": {
+          "value": "Eagles 24 - Chiefs 20",
+          "sign": "s2ah6w=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514628,
+        "odds": 101,
+        "name": {
+          "value": "Eagles 24 - Chiefs 21",
+          "sign": "+j+UqA=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514627,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 24 - Chiefs 22",
+          "sign": "X3ltsQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514626,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 24 - Chiefs 23",
+          "sign": "qXYLnA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514625,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 25 - Chiefs 20",
+          "sign": "ielkWA=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514624,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 25 - Chiefs 24",
+          "sign": "vEUpcA=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514623,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 26 - Chiefs 10",
+          "sign": "t6lTYQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514622,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 26 - Chiefs 13",
+          "sign": "bcc7og=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514621,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 26 - Chiefs 16",
+          "sign": "/SShUg=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514620,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 26 - Chiefs 19",
+          "sign": "s1As9g=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514619,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 26 - Chiefs 20",
+          "sign": "y6wtJA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514618,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 26 - Chiefs 21",
+          "sign": "PaNLCQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514617,
+        "odds": 126,
+        "name": {
+          "value": "Eagles 26 - Chiefs 23",
+          "sign": "DtW1Zw=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514616,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 26 - Chiefs 24",
+          "sign": "DIRFEQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514615,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 27 - Chiefs 6",
+          "sign": "KnxdQg=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514614,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 27 - Chiefs 7",
+          "sign": "Qje6UQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514613,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 27 - Chiefs 10",
+          "sign": "M/Xyug=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514612,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 27 - Chiefs 13",
+          "sign": "Vs3JFw=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514611,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 27 - Chiefs 14",
+          "sign": "6k9dCQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514610,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 27 - Chiefs 16",
+          "sign": "phEyvQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514609,
+        "odds": 101,
+        "name": {
+          "value": "Eagles 27 - Chiefs 17",
+          "sign": "LzbFSg=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514608,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 27 - Chiefs 19",
+          "sign": "NIPVJw=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514607,
+        "odds": 81,
+        "name": {
+          "value": "Eagles 27 - Chiefs 20",
+          "sign": "TH/U9Q=="
+        },
+        "visibility": "Visible",
+        "numerator": 80,
+        "denominator": 1,
+        "americanOdds": 8000
+      },
+      {
+        "id": -1675514606,
+        "odds": 126,
+        "name": {
+          "value": "Eagles 27 - Chiefs 21",
+          "sign": "unCy2A=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514605,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 27 - Chiefs 22",
+          "sign": "HzZLwQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514604,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 27 - Chiefs 23",
+          "sign": "Vm9+gg=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514603,
+        "odds": 51,
+        "name": {
+          "value": "Eagles 27 - Chiefs 24",
+          "sign": "6u3qnA=="
+        },
+        "visibility": "Visible",
+        "numerator": 50,
+        "denominator": 1,
+        "americanOdds": 5000
+      },
+      {
+        "id": -1675514602,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 27 - Chiefs 25",
+          "sign": "HOKMsQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514601,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 27 - Chiefs 26",
+          "sign": "uaR1qA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514600,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 28 - Chiefs 14",
+          "sign": "woeyog=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514599,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 28 - Chiefs 17",
+          "sign": "Z8FLuw=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514598,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 28 - Chiefs 20",
+          "sign": "ZzhjVA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514597,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 28 - Chiefs 21",
+          "sign": "7h+Uow=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514596,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 28 - Chiefs 23",
+          "sign": "HReoeQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514595,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 28 - Chiefs 24",
+          "sign": "oZU8Zw=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514594,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 28 - Chiefs 25",
+          "sign": "V5paSg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514593,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 28 - Chiefs 26",
+          "sign": "8tyjUw=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514592,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 28 - Chiefs 27",
+          "sign": "As10ag=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514591,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 29 - Chiefs 23",
+          "sign": "gcd/MA=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514590,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 29 - Chiefs 24",
+          "sign": "Qm169A=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514589,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 29 - Chiefs 26",
+          "sign": "cRuEmg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514588,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 29 - Chiefs 27",
+          "sign": "OEKx2Q=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514587,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 30 - Chiefs 10",
+          "sign": "2XiS9g=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514586,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 30 - Chiefs 13",
+          "sign": "Axb6NQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514585,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 30 - Chiefs 14",
+          "sign": "v5RuKw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514584,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 30 - Chiefs 16",
+          "sign": "MjH0LQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514583,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 30 - Chiefs 17",
+          "sign": "uxYD2g=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514582,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 30 - Chiefs 20",
+          "sign": "u+8rNQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514581,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 30 - Chiefs 23",
+          "sign": "HqnSLA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514580,
+        "odds": 101,
+        "name": {
+          "value": "Eagles 30 - Chiefs 24",
+          "sign": "YlWEhg=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514579,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 30 - Chiefs 26",
+          "sign": "USN66A=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514578,
+        "odds": 81,
+        "name": {
+          "value": "Eagles 30 - Chiefs 27",
+          "sign": "pywcxQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 80,
+        "denominator": 1,
+        "americanOdds": 8000
+      },
+      {
+        "id": -1675514577,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 30 - Chiefs 28",
+          "sign": "KSZT1Q=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514576,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 31 - Chiefs 7",
+          "sign": "x/WTGg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514575,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 31 - Chiefs 10",
+          "sign": "XqtrJw=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514574,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 31 - Chiefs 13",
+          "sign": "hMUD5A=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514573,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 31 - Chiefs 14",
+          "sign": "OEeX+g=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514572,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 31 - Chiefs 16",
+          "sign": "y0+rIA=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514571,
+        "odds": 101,
+        "name": {
+          "value": "Eagles 31 - Chiefs 17",
+          "sign": "Qmhc1w=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514570,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 31 - Chiefs 19",
+          "sign": "JXqFag=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514569,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 31 - Chiefs 20",
+          "sign": "XYaEuA=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514568,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 31 - Chiefs 21",
+          "sign": "anIXJw=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514567,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 31 - Chiefs 23",
+          "sign": "WQTpSQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514566,
+        "odds": 81,
+        "name": {
+          "value": "Eagles 31 - Chiefs 24",
+          "sign": "mq7sjQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 80,
+        "denominator": 1,
+        "americanOdds": 8000
+      },
+      {
+        "id": -1675514565,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 31 - Chiefs 25",
+          "sign": "E4kbeg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514564,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 31 - Chiefs 26",
+          "sign": "drEg1w=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514563,
+        "odds": 126,
+        "name": {
+          "value": "Eagles 31 - Chiefs 27",
+          "sign": "/5bXIA=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514562,
+        "odds": 126,
+        "name": {
+          "value": "Eagles 31 - Chiefs 28",
+          "sign": "DrQJ6g=="
+        },
+        "visibility": "Visible",
+        "numerator": 125,
+        "denominator": 1,
+        "americanOdds": 12500
+      },
+      {
+        "id": -1675514561,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 31 - Chiefs 30",
+          "sign": "Yho5fQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514560,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 33 - Chiefs 13",
+          "sign": "wskKqw=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514559,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 33 - Chiefs 17",
+          "sign": "xBqXLA=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514558,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 33 - Chiefs 20",
+          "sign": "xOO/ww=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514557,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 33 - Chiefs 23",
+          "sign": "YaVG2g=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514556,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 33 - Chiefs 26",
+          "sign": "MTgeng=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514555,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 33 - Chiefs 27",
+          "sign": "uB/paQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514554,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 33 - Chiefs 30",
+          "sign": "OoT3tA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514553,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 33 - Chiefs 31",
+          "sign": "s6MAQw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514552,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 34 - Chiefs 10",
+          "sign": "XjPWkw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514551,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 34 - Chiefs 13",
+          "sign": "+3Uvig=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514550,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 34 - Chiefs 14",
+          "sign": "ON8qTg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514549,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 34 - Chiefs 16",
+          "sign": "C6nUIA=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514548,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 34 - Chiefs 17",
+          "sign": "QvDhYw=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514547,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 34 - Chiefs 20",
+          "sign": "PSFYVg=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514546,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 34 - Chiefs 21",
+          "sign": "yy4+ew=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514545,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 34 - Chiefs 23",
+          "sign": "+FjAFQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514544,
+        "odds": 151,
+        "name": {
+          "value": "Eagles 34 - Chiefs 24",
+          "sign": "R1UMAQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 150,
+        "denominator": 1,
+        "americanOdds": 15000
+      },
+      {
+        "id": -1675514543,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 34 - Chiefs 26",
+          "sign": "dCPybw=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514542,
+        "odds": 101,
+        "name": {
+          "value": "Eagles 34 - Chiefs 27",
+          "sign": "giyUQg=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514541,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 34 - Chiefs 28",
+          "sign": "DCbbUg=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514540,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 34 - Chiefs 30",
+          "sign": "oPYpcQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514539,
+        "odds": 101,
+        "name": {
+          "value": "Eagles 34 - Chiefs 31",
+          "sign": "KdHehg=="
+        },
+        "visibility": "Visible",
+        "numerator": 100,
+        "denominator": 1,
+        "americanOdds": 10000
+      },
+      {
+        "id": -1675514538,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 35 - Chiefs 17",
+          "sign": "e/B82g=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514537,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 35 - Chiefs 27",
+          "sign": "p7ShcQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514536,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 35 - Chiefs 31",
+          "sign": "cuRNaQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514535,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 37 - Chiefs 17",
+          "sign": "kYG0Ug=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514534,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 37 - Chiefs 20",
+          "sign": "kXicvQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514533,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 37 - Chiefs 23",
+          "sign": "ND5lpA=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514532,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 37 - Chiefs 24",
+          "sign": "SMIzDg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514531,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 37 - Chiefs 27",
+          "sign": "7YTKFw=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514530,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 37 - Chiefs 30",
+          "sign": "bx/Uyg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514529,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 37 - Chiefs 31",
+          "sign": "5jgjPQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514528,
+        "odds": 81,
+        "name": {
+          "value": "Eagles 37 - Chiefs 34",
+          "sign": "D+2ZAw=="
+        },
+        "visibility": "Visible",
+        "numerator": 80,
+        "denominator": 1,
+        "americanOdds": 8000
+      },
+      {
+        "id": -1675514527,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 38 - Chiefs 10",
+          "sign": "volCkQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514526,
+        "odds": 251,
+        "name": {
+          "value": "Eagles 38 - Chiefs 17",
+          "sign": "fSNHVQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 250,
+        "denominator": 1,
+        "americanOdds": 25000
+      },
+      {
+        "id": -1675514525,
+        "odds": 301,
+        "name": {
+          "value": "Eagles 38 - Chiefs 20",
+          "sign": "AvL+YA=="
+        },
+        "visibility": "Visible",
+        "numerator": 300,
+        "denominator": 1,
+        "americanOdds": 30000
+      },
+      {
+        "id": -1675514524,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 38 - Chiefs 24",
+          "sign": "xF+hUw=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514523,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 38 - Chiefs 27",
+          "sign": "YRlYSg=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514522,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 38 - Chiefs 30",
+          "sign": "44JGlw=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514521,
+        "odds": 201,
+        "name": {
+          "value": "Eagles 38 - Chiefs 31",
+          "sign": "aqWxYA=="
+        },
+        "visibility": "Visible",
+        "numerator": 200,
+        "denominator": 1,
+        "americanOdds": 20000
+      },
+      {
+        "id": -1675514520,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 38 - Chiefs 35",
+          "sign": "0qVIjw=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514519,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 41 - Chiefs 17",
+          "sign": "SxHYMQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514518,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 41 - Chiefs 20",
+          "sign": "S+jw3g=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514517,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 41 - Chiefs 24",
+          "sign": "TTttWQ=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514516,
+        "odds": 401,
+        "name": {
+          "value": "Eagles 41 - Chiefs 27",
+          "sign": "KANW9A=="
+        },
+        "visibility": "Visible",
+        "numerator": 400,
+        "denominator": 1,
+        "americanOdds": 40000
+      },
+      {
+        "id": -1675514515,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 41 - Chiefs 31",
+          "sign": "Q4DehA=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514514,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 41 - Chiefs 34",
+          "sign": "rEvVrg=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      },
+      {
+        "id": -1675514513,
+        "odds": 501,
+        "name": {
+          "value": "Eagles 41 - Chiefs 38",
+          "sign": "mBCTJw=="
+        },
+        "visibility": "Visible",
+        "numerator": 500,
+        "denominator": 1,
+        "americanOdds": 50000
+      }
+    ]
+  }
