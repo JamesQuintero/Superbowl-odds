@@ -1,0 +1,1652 @@
+{
+    "id": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+    "name": "|Super Bowl Squares (Last Digit Of Each Team Final Score)|",
+    "startTime": "2023-02-12T23:15:00Z",
+    "type": "TNMT",
+    "display": true,
+    "tradedInPlay": false,
+    "sportId": "americanfootball",
+    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+    "competitionName": "NFL",
+    "active": true,
+    "started": false,
+    "marketCountActivePreMatch": 1,
+    "marketCountActiveInPlay": 0,
+    "markets": [
+        {
+            "id": "93473b29-56c6-3a84-b106-8c97d05f051f",
+            "name": "|Caesars Squares|",
+            "displayOrder": 100,
+            "type": "standard-market-template",
+            "display": true,
+            "tradedInPlay": false,
+            "templateId": "_7cCaesars_20Squares_7c",
+            "templateName": "|Caesars Squares|",
+            "templateType": "generic",
+            "spOffered": false,
+            "active": true,
+            "sportId": "americanfootball",
+            "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+            "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+            "displayName": "|Caesars Squares|",
+            "specialConditions": "",
+            "selections": [
+                {
+                    "id": "f231a76d-ab33-326c-a942-5a4964ed9e62",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 4 |and| |Philadelphia Eagles| 7",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "22/1",
+                        "d": 23.0,
+                        "a": 2200
+                    }
+                },
+                {
+                    "id": "3c6da42b-848b-3b7e-82b6-0113f9d3db6a",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 7 |and| |Philadelphia Eagles| 0",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "22/1",
+                        "d": 23.0,
+                        "a": 2200
+                    }
+                },
+                {
+                    "id": "f01ca8d2-d1a3-3a9a-9606-3cebabb47ea8",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 0 |and| |Philadelphia Eagles| 7",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "22/1",
+                        "d": 23.0,
+                        "a": 2200
+                    }
+                },
+                {
+                    "id": "4ccab437-78c8-3d20-a123-6906541507f9",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 3 |and| |Philadelphia Eagles| 0",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "24/1",
+                        "d": 25.0,
+                        "a": 2400
+                    }
+                },
+                {
+                    "id": "81d0efcb-7975-3d2e-9c6a-9ecb74280e64",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 0 |and| |Philadelphia Eagles| 3",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "25/1",
+                        "d": 26.0,
+                        "a": 2500
+                    }
+                },
+                {
+                    "id": "a8185252-4cb3-3b7e-9b0e-df1e9d880a18",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 7 |and| |Philadelphia Eagles| 4",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "25/1",
+                        "d": 26.0,
+                        "a": 2500
+                    }
+                },
+                {
+                    "id": "7c7644ec-de43-3697-a957-a79f1793dad5",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 7 |and| |Philadelphia Eagles| 3",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "26/1",
+                        "d": 27.0,
+                        "a": 2600
+                    }
+                },
+                {
+                    "id": "341ef872-8cee-3740-aaf5-3ad55d2cc998",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 0 |and| |Philadelphia Eagles| 6",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "27/1",
+                        "d": 28.0,
+                        "a": 2700
+                    }
+                },
+                {
+                    "id": "29538df5-3fec-3799-98e4-02888cc27f6f",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 4 |and| |Philadelphia Eagles| 0",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "29/1",
+                        "d": 30.0,
+                        "a": 2900
+                    }
+                },
+                {
+                    "id": "a03478e9-c6ec-3bf5-a2e5-c939d65e7f61",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 0 |and| |Philadelphia Eagles| 4",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "30/1",
+                        "d": 31.0,
+                        "a": 3000
+                    }
+                },
+                {
+                    "id": "a214dd4a-cc40-3fe2-9b09-66a3add752c3",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 4 |and| |Philadelphia Eagles| 1",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "33/1",
+                        "d": 34.0,
+                        "a": 3300
+                    }
+                },
+                {
+                    "id": "9310e0a7-4774-38d9-a339-60f70ab615f4",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 3 |and| |Philadelphia Eagles| 6",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "35/1",
+                        "d": 36.0,
+                        "a": 3500
+                    }
+                },
+                {
+                    "id": "c08c76f5-3b59-3819-9a6b-8b783686bb67",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 1 |and| |Philadelphia Eagles| 4",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "35/1",
+                        "d": 36.0,
+                        "a": 3500
+                    }
+                },
+                {
+                    "id": "3fd8d435-4903-3848-bec6-7fcc60ff87d4",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 3 |and| |Philadelphia Eagles| 7",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "35/1",
+                        "d": 36.0,
+                        "a": 3500
+                    }
+                },
+                {
+                    "id": "1757bc3f-4b9d-33a9-b230-d882a931454f",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 0 |and| |Philadelphia Eagles| 0",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "35/1",
+                        "d": 36.0,
+                        "a": 3500
+                    }
+                },
+                {
+                    "id": "ef3c50e2-088c-3b79-969d-67d8efc17e84",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 6 |and| |Philadelphia Eagles| 4",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "45/1",
+                        "d": 46.0,
+                        "a": 4500
+                    }
+                },
+                {
+                    "id": "88ab0244-d4f0-3d08-98f6-42e0752758c5",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 7 |and| |Philadelphia Eagles| 1",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "45/1",
+                        "d": 46.0,
+                        "a": 4500
+                    }
+                },
+                {
+                    "id": "7d0cd679-6289-338b-8fe4-59138bcd687d",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 6 |and| |Philadelphia Eagles| 0",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "45/1",
+                        "d": 46.0,
+                        "a": 4500
+                    }
+                },
+                {
+                    "id": "a098ffc1-94df-3075-8d98-a7646b92c91a",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 3 |and| |Philadelphia Eagles| 1",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "45/1",
+                        "d": 46.0,
+                        "a": 4500
+                    }
+                },
+                {
+                    "id": "50297af7-fc7b-36ee-99a8-3ed89d5387e4",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 3 |and| |Philadelphia Eagles| 4",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "50/1",
+                        "d": 51.0,
+                        "a": 5000
+                    }
+                },
+                {
+                    "id": "04b8093a-9dcd-38ca-80bf-658674429dd1",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 7 |and| |Philadelphia Eagles| 7",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "50/1",
+                        "d": 51.0,
+                        "a": 5000
+                    }
+                },
+                {
+                    "id": "15679a34-2d3d-3b2c-928b-071165b6e628",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 6 |and| |Philadelphia Eagles| 3",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "50/1",
+                        "d": 51.0,
+                        "a": 5000
+                    }
+                },
+                {
+                    "id": "2822c55a-3758-34da-a27b-45d30834ff4e",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 1 |and| |Philadelphia Eagles| 1",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "55/1",
+                        "d": 56.0,
+                        "a": 5500
+                    }
+                },
+                {
+                    "id": "247090d6-0080-3e98-81ef-7ab3c380fc9f",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 9 |and| |Philadelphia Eagles| 7",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "55/1",
+                        "d": 56.0,
+                        "a": 5500
+                    }
+                },
+                {
+                    "id": "d5625c7a-d84e-37ba-acc0-ab16f491a984",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 7 |and| |Philadelphia Eagles| 6",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "60/1",
+                        "d": 61.0,
+                        "a": 6000
+                    }
+                },
+                {
+                    "id": "98520c8e-5019-3396-b2f9-1b11f4975d28",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 0 |and| |Philadelphia Eagles| 1",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "60/1",
+                        "d": 61.0,
+                        "a": 6000
+                    }
+                },
+                {
+                    "id": "d5ced0b6-521b-32ce-86fc-c4e854d56915",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 8 |and| |Philadelphia Eagles| 5",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "60/1",
+                        "d": 61.0,
+                        "a": 6000
+                    }
+                },
+                {
+                    "id": "d574e8e0-a356-3cab-856f-06249a6fabe5",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 0 |and| |Philadelphia Eagles| 5",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "65/1",
+                        "d": 66.0,
+                        "a": 6500
+                    }
+                },
+                {
+                    "id": "179cb92b-6be1-3b18-b01b-ecb70fd0fda5",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 8 |and| |Philadelphia Eagles| 1",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "65/1",
+                        "d": 66.0,
+                        "a": 6500
+                    }
+                },
+                {
+                    "id": "6650e658-65c1-3c31-943d-29282077d6df",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 1 |and| |Philadelphia Eagles| 7",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "65/1",
+                        "d": 66.0,
+                        "a": 6500
+                    }
+                },
+                {
+                    "id": "a12c5a8e-ece1-3711-aa91-de24e07d5ba7",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 3 |and| |Philadelphia Eagles| 3",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "65/1",
+                        "d": 66.0,
+                        "a": 6500
+                    }
+                },
+                {
+                    "id": "cdad8e42-71ee-30d8-bdf1-73663316e29b",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 4 |and| |Philadelphia Eagles| 6",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "70/1",
+                        "d": 71.0,
+                        "a": 7000
+                    }
+                },
+                {
+                    "id": "1ebdd22e-68ad-320d-877d-f5ef403dbed3",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 0 |and| |Philadelphia Eagles| 8",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "70/1",
+                        "d": 71.0,
+                        "a": 7000
+                    }
+                },
+                {
+                    "id": "252aed56-ba7f-3ff0-a5d1-aa9c53bd7efc",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 1 |and| |Philadelphia Eagles| 8",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "70/1",
+                        "d": 71.0,
+                        "a": 7000
+                    }
+                },
+                {
+                    "id": "ea0c3343-56c4-3864-b62e-c4b7db40ef77",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 7 |and| |Philadelphia Eagles| 8",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "70/1",
+                        "d": 71.0,
+                        "a": 7000
+                    }
+                },
+                {
+                    "id": "a7cbce7b-1581-3f93-8cfe-d9147c687ea7",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 3 |and| |Philadelphia Eagles| 9",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "75/1",
+                        "d": 76.0,
+                        "a": 7500
+                    }
+                },
+                {
+                    "id": "110844ea-0a8e-378f-8aa3-92918ca50c3f",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 1 |and| |Philadelphia Eagles| 3",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "75/1",
+                        "d": 76.0,
+                        "a": 7500
+                    }
+                },
+                {
+                    "id": "9af3d434-0ce1-3fb2-b08a-b69b21176545",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 9 |and| |Philadelphia Eagles| 0",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "75/1",
+                        "d": 76.0,
+                        "a": 7500
+                    }
+                },
+                {
+                    "id": "f898f9d2-cddc-3ec2-9cf3-21430adb02f2",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 6 |and| |Philadelphia Eagles| 6",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "75/1",
+                        "d": 76.0,
+                        "a": 7500
+                    }
+                },
+                {
+                    "id": "3bd19300-91d6-3e70-a982-c99ac1105a90",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 5 |and| |Philadelphia Eagles| 0",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "75/1",
+                        "d": 76.0,
+                        "a": 7500
+                    }
+                },
+                {
+                    "id": "9a32241d-cbb7-372b-9687-c6a44c4d368e",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 1 |and| |Philadelphia Eagles| 0",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "75/1",
+                        "d": 76.0,
+                        "a": 7500
+                    }
+                },
+                {
+                    "id": "9b764707-1a5a-3797-9288-b4267df960c5",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 4 |and| |Philadelphia Eagles| 8",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "80/1",
+                        "d": 81.0,
+                        "a": 8000
+                    }
+                },
+                {
+                    "id": "db463c6e-ff1c-30ff-97a6-6a1a5b6a574a",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 3 |and| |Philadelphia Eagles| 8",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "80/1",
+                        "d": 81.0,
+                        "a": 8000
+                    }
+                },
+                {
+                    "id": "3a24cd0d-ebd5-3571-99a9-39fda597b666",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 4 |and| |Philadelphia Eagles| 4",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "80/1",
+                        "d": 81.0,
+                        "a": 8000
+                    }
+                },
+                {
+                    "id": "23b55c4f-a540-39d6-a91f-6c5eec3b1a39",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 6 |and| |Philadelphia Eagles| 7",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "80/1",
+                        "d": 81.0,
+                        "a": 8000
+                    }
+                },
+                {
+                    "id": "c4708826-45d0-3ad6-a672-67e02f404667",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 0 |and| |Philadelphia Eagles| 9",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "90/1",
+                        "d": 91.0,
+                        "a": 9000
+                    }
+                },
+                {
+                    "id": "a64b498c-c88e-3226-a04f-89db43d2f069",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 8 |and| |Philadelphia Eagles| 6",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "90/1",
+                        "d": 91.0,
+                        "a": 9000
+                    }
+                },
+                {
+                    "id": "959bd078-e0fc-370a-b8ee-c34bc40f0450",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 8 |and| |Philadelphia Eagles| 0",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "90/1",
+                        "d": 91.0,
+                        "a": 9000
+                    }
+                },
+                {
+                    "id": "f253f50a-9f32-30e0-bac4-fb8026dda06c",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 4 |and| |Philadelphia Eagles| 3",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "90/1",
+                        "d": 91.0,
+                        "a": 9000
+                    }
+                },
+                {
+                    "id": "ceaaee3d-79bc-3d1e-81cd-763ce29af7a4",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 1 |and| |Philadelphia Eagles| 6",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "95/1",
+                        "d": 96.0,
+                        "a": 9500
+                    }
+                },
+                {
+                    "id": "906665fc-bcb7-35fc-b083-30aeb8c60aac",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 5 |and| |Philadelphia Eagles| 8",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "95/1",
+                        "d": 96.0,
+                        "a": 9500
+                    }
+                },
+                {
+                    "id": "c9bd4fc3-f67e-3073-81e5-f7f5a606605e",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 6 |and| |Philadelphia Eagles| 9",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "95/1",
+                        "d": 96.0,
+                        "a": 9500
+                    }
+                },
+                {
+                    "id": "fa2a906b-b24d-34f8-b6bc-03fd2d39b2c3",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 0 |and| |Philadelphia Eagles| 2",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "95/1",
+                        "d": 96.0,
+                        "a": 9500
+                    }
+                },
+                {
+                    "id": "30657127-b40c-35b8-8bf0-090a35e959f9",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 7 |and| |Philadelphia Eagles| 2",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "95/1",
+                        "d": 96.0,
+                        "a": 9500
+                    }
+                },
+                {
+                    "id": "6e276e38-657d-31de-94fd-b49012badae1",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 7 |and| |Philadelphia Eagles| 9",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "95/1",
+                        "d": 96.0,
+                        "a": 9500
+                    }
+                },
+                {
+                    "id": "504872d4-920f-3019-9da1-1c52d7d8173c",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 8 |and| |Philadelphia Eagles| 4",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "95/1",
+                        "d": 96.0,
+                        "a": 9500
+                    }
+                },
+                {
+                    "id": "35375258-07b7-3767-bd55-3fecc7a761a7",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 5 |and| |Philadelphia Eagles| 1",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "100/1",
+                        "d": 101.0,
+                        "a": 10000
+                    }
+                },
+                {
+                    "id": "da9727c4-0e08-33de-ad5b-3c9efa6217bb",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 8 |and| |Philadelphia Eagles| 9",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "100/1",
+                        "d": 101.0,
+                        "a": 10000
+                    }
+                },
+                {
+                    "id": "9aa50927-3fe9-3f7f-b470-5233a6f6d10b",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 9 |and| |Philadelphia Eagles| 5",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "100/1",
+                        "d": 101.0,
+                        "a": 10000
+                    }
+                },
+                {
+                    "id": "d52a5870-23f5-391a-ac1c-d42540f12724",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 6 |and| |Philadelphia Eagles| 1",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "100/1",
+                        "d": 101.0,
+                        "a": 10000
+                    }
+                },
+                {
+                    "id": "850f3e6e-4ba7-393f-9e5f-16ed6084dac8",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 1 |and| |Philadelphia Eagles| 2",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "100/1",
+                        "d": 101.0,
+                        "a": 10000
+                    }
+                },
+                {
+                    "id": "5eb70528-d632-3121-bedd-5ffb0d619a4a",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 8 |and| |Philadelphia Eagles| 7",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "100/1",
+                        "d": 101.0,
+                        "a": 10000
+                    }
+                },
+                {
+                    "id": "e5f69b28-ef67-3dff-9424-4790f75baf70",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 6 |and| |Philadelphia Eagles| 2",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "100/1",
+                        "d": 101.0,
+                        "a": 10000
+                    }
+                },
+                {
+                    "id": "8086c5ac-b2af-3305-9e31-f46728cfb497",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 6 |and| |Philadelphia Eagles| 5",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "c4d3f9c8-9193-3b5b-ac22-e989a72c00bd",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 2 |and| |Philadelphia Eagles| 0",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "c076ba93-5c0d-3dbe-a430-5b9a3f7abcdd",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 2 |and| |Philadelphia Eagles| 8",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "23f08bb9-d82e-31a5-86de-33df0fd66660",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 4 |and| |Philadelphia Eagles| 9",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "ca4507e0-4ec7-3615-ad48-1d5bd56759a9",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 5 |and| |Philadelphia Eagles| 7",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "3370c71f-164c-338b-8ee6-4fb12067286b",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 9 |and| |Philadelphia Eagles| 2",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "61c9dbf1-4ac2-35a6-bbf4-acea2f159730",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 9 |and| |Philadelphia Eagles| 3",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "ac1750d6-eca9-388e-b4c8-9f4ab901601e",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 8 |and| |Philadelphia Eagles| 3",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "1642b03c-1976-3e94-a5af-dced6ea1e666",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 2 |and| |Philadelphia Eagles| 7",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "8128ca9d-c886-3924-8d09-7514fdaaf749",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 2 |and| |Philadelphia Eagles| 6",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "48ecfc53-bff9-3873-8378-d2211984d998",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 3 |and| |Philadelphia Eagles| 5",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "125/1",
+                        "d": 126.0,
+                        "a": 12500
+                    }
+                },
+                {
+                    "id": "5b8443b7-71ae-3cb0-8b59-4f97f27ced2c",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 7 |and| |Philadelphia Eagles| 5",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "1e30fc3b-2cc5-3495-82c5-8173ddf5bfc3",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 5 |and| |Philadelphia Eagles| 4",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "64e8f2e8-40b9-326f-be8d-bf129f549b9b",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 8 |and| |Philadelphia Eagles| 8",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "65de4766-33e7-38b1-8c37-183ad8436226",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 1 |and| |Philadelphia Eagles| 9",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "4f47f065-7533-38fa-808f-813235c09af2",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 4 |and| |Philadelphia Eagles| 5",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "eb9732d8-996c-38d8-be74-c0346bb2122f",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 8 |and| |Philadelphia Eagles| 2",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "d2ca1bf9-2c1b-33a6-ad27-cf2d24141a22",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 2 |and| |Philadelphia Eagles| 9",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "4c0d038a-5583-3720-a90d-ee4e1825c33e",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 5 |and| |Philadelphia Eagles| 9",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "0ee279b8-e1a2-31ef-b183-e9bcb72951d0",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 6 |and| |Philadelphia Eagles| 8",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "6de75915-09ec-36c4-86fa-43034dd9c5fa",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 2 |and| |Philadelphia Eagles| 1",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "f3afa5fc-26fc-3bd6-8c91-60999b82f792",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 5 |and| |Philadelphia Eagles| 2",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "2f56ca9a-bdae-3b69-ad8a-fc44070b1360",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 9 |and| |Philadelphia Eagles| 6",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "c5e06a97-93c2-3d1e-adc8-ce4477a3aba5",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 2 |and| |Philadelphia Eagles| 2",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "45e93564-2eb2-3695-be8e-6fc85583f7b6",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 2 |and| |Philadelphia Eagles| 5",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "302cd98f-d978-3a79-ae13-494281082d2f",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 9 |and| |Philadelphia Eagles| 4",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "0394f74d-5dd8-329a-8e25-d54569d20abe",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 9 |and| |Philadelphia Eagles| 9",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "837331b9-100b-3f62-9013-a55a88a441ad",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 1 |and| |Philadelphia Eagles| 5",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "e2075b5e-c4f6-35ed-bbbf-cf613113e29c",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 3 |and| |Philadelphia Eagles| 2",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "a3befe65-2b9c-3fbb-9377-107204fda0d1",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 2 |and| |Philadelphia Eagles| 4",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "987054b7-88bf-3087-911f-b4b91078b29e",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 5 |and| |Philadelphia Eagles| 6",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "baa3786d-1392-31c4-a63c-cab85660e937",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 9 |and| |Philadelphia Eagles| 1",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "672e723d-59c8-3960-9eab-cf84cb6a1f92",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 5 |and| |Philadelphia Eagles| 3",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "15ca07f8-636e-3b34-809f-b04e65edefde",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 5 |and| |Philadelphia Eagles| 5",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "bf9ea9e2-112e-3744-8008-d50e61467a0b",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 4 |and| |Philadelphia Eagles| 2",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "9c41cffc-7779-3f48-b8f2-af6e8a259506",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 2 |and| |Philadelphia Eagles| 3",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                },
+                {
+                    "id": "53deca96-0f13-3326-ae52-5938ac301be4",
+                    "display": true,
+                    "name": "|Kansas City Chiefs| 9 |and| |Philadelphia Eagles| 8",
+                    "sportId": "americanfootball",
+                    "competitionId": "007d7c61-07a7-4e18-bb40-15104b6eac92",
+                    "eventId": "ddc03748-795d-3e3d-90aa-113193e4ac8c",
+                    "marketId": "93473b29-56c6-3a84-b106-8c97d05f051f",
+                    "active": true,
+                    "type": "generic",
+                    "price": {
+                        "f": "150/1",
+                        "d": 151.0,
+                        "a": 15000
+                    }
+                }
+            ],
+            "placeholder": false,
+            "keyMarket": false,
+            "sixPackView": false,
+            "promoted": false,
+            "promotedDisplayOrder": 0,
+            "betLimits": {
+                "liabilityLimit": 100000000,
+                "maxMultipleBet": 10000000,
+                "maxWin": 1000000,
+                "maxBet": 300000
+            },
+            "byoEligible": false,
+            "movingLines": null
+        }
+    ],
+    "byoEligible": false,
+    "metadata": {}
+}
