@@ -1,0 +1,2433 @@
+{
+    "marketId": "734.54890948",
+    "eventTypeId": 6423,
+    "competitionId": 12282733,
+    "eventId": 32052129,
+    "marketName": "Super Bowl Squares - Final Score",
+    "marketTime": "2023-02-12T23:31:00.000Z",
+    "marketType": "SUPER_BOWL_SQUARES_-_FINAL_SCORE",
+    "bspMarket": false,
+    "sgmMarket": false,
+    "inPlay": false,
+    "numberOfRunners": 100,
+    "numberOfActiveRunners": 100,
+    "numberOfWinners": 1,
+    "sortPriority": 10,
+    "bettingType": "ODDS",
+    "marketStatus": "OPEN",
+    "runners": [
+        {
+            "selectionId": 52302713,
+            "handicap": 0,
+            "runnerName": "Eagles 0 - Chiefs 0",
+            "sortPriority": 1,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 4000,
+                    "americanOddsInt": 4000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 41
+                    },
+                    "fractionalOdds": {
+                        "numerator": 40,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302682,
+            "handicap": 0,
+            "runnerName": "Eagles 0 - Chiefs 1",
+            "sortPriority": 2,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 5000,
+                    "americanOddsInt": 5000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 51
+                    },
+                    "fractionalOdds": {
+                        "numerator": 50,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302696,
+            "handicap": 0,
+            "runnerName": "Eagles 0 - Chiefs 2",
+            "sortPriority": 3,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302716,
+            "handicap": 0,
+            "runnerName": "Eagles 0 - Chiefs 3",
+            "sortPriority": 4,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 2800,
+                    "americanOddsInt": 2800
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 29
+                    },
+                    "fractionalOdds": {
+                        "numerator": 28,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302700,
+            "handicap": 0,
+            "runnerName": "Eagles 0 - Chiefs 4",
+            "sortPriority": 5,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 3000,
+                    "americanOddsInt": 3000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 31
+                    },
+                    "fractionalOdds": {
+                        "numerator": 30,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302684,
+            "handicap": 0,
+            "runnerName": "Eagles 0 - Chiefs 5",
+            "sortPriority": 6,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302691,
+            "handicap": 0,
+            "runnerName": "Eagles 0 - Chiefs 6",
+            "sortPriority": 7,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 4800,
+                    "americanOddsInt": 4800
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 49
+                    },
+                    "fractionalOdds": {
+                        "numerator": 48,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302714,
+            "handicap": 0,
+            "runnerName": "Eagles 0 - Chiefs 7",
+            "sortPriority": 8,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 2100,
+                    "americanOddsInt": 2100
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 22
+                    },
+                    "fractionalOdds": {
+                        "numerator": 21,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302670,
+            "handicap": 0,
+            "runnerName": "Eagles 0 - Chiefs 8",
+            "sortPriority": 9,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 6500,
+                    "americanOddsInt": 6500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 66
+                    },
+                    "fractionalOdds": {
+                        "numerator": 65,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302710,
+            "handicap": 0,
+            "runnerName": "Eagles 0 - Chiefs 9",
+            "sortPriority": 10,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302706,
+            "handicap": 0,
+            "runnerName": "Eagles 1 - Chiefs 0",
+            "sortPriority": 11,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 4500,
+                    "americanOddsInt": 4500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 46
+                    },
+                    "fractionalOdds": {
+                        "numerator": 45,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302676,
+            "handicap": 0,
+            "runnerName": "Eagles 1 - Chiefs 1",
+            "sortPriority": 12,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 7000,
+                    "americanOddsInt": 7000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 71
+                    },
+                    "fractionalOdds": {
+                        "numerator": 70,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302654,
+            "handicap": 0,
+            "runnerName": "Eagles 1 - Chiefs 2",
+            "sortPriority": 13,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 13000,
+                    "americanOddsInt": 13000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 131
+                    },
+                    "fractionalOdds": {
+                        "numerator": 130,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302693,
+            "handicap": 0,
+            "runnerName": "Eagles 1 - Chiefs 3",
+            "sortPriority": 14,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 4700,
+                    "americanOddsInt": 4700
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 48
+                    },
+                    "fractionalOdds": {
+                        "numerator": 47,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302679,
+            "handicap": 0,
+            "runnerName": "Eagles 1 - Chiefs 4",
+            "sortPriority": 15,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 2600,
+                    "americanOddsInt": 2600
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 27
+                    },
+                    "fractionalOdds": {
+                        "numerator": 26,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302659,
+            "handicap": 0,
+            "runnerName": "Eagles 1 - Chiefs 5",
+            "sortPriority": 16,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302685,
+            "handicap": 0,
+            "runnerName": "Eagles 1 - Chiefs 6",
+            "sortPriority": 17,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 7000,
+                    "americanOddsInt": 7000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 71
+                    },
+                    "fractionalOdds": {
+                        "numerator": 70,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302689,
+            "handicap": 0,
+            "runnerName": "Eagles 1 - Chiefs 7",
+            "sortPriority": 18,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 3400,
+                    "americanOddsInt": 3400
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 35
+                    },
+                    "fractionalOdds": {
+                        "numerator": 34,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302663,
+            "handicap": 0,
+            "runnerName": "Eagles 1 - Chiefs 8",
+            "sortPriority": 19,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 5000,
+                    "americanOddsInt": 5000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 51
+                    },
+                    "fractionalOdds": {
+                        "numerator": 50,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302660,
+            "handicap": 0,
+            "runnerName": "Eagles 1 - Chiefs 9",
+            "sortPriority": 20,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 11000,
+                    "americanOddsInt": 11000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 111
+                    },
+                    "fractionalOdds": {
+                        "numerator": 110,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167853,
+            "handicap": 0,
+            "runnerName": "Eagles 2 - Chiefs 0",
+            "sortPriority": 21,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302672,
+            "handicap": 0,
+            "runnerName": "Eagles 2 - Chiefs 1",
+            "sortPriority": 22,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 13000,
+                    "americanOddsInt": 13000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 131
+                    },
+                    "fractionalOdds": {
+                        "numerator": 130,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302658,
+            "handicap": 0,
+            "runnerName": "Eagles 2 - Chiefs 2",
+            "sortPriority": 23,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 25000,
+                    "americanOddsInt": 25000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 251
+                    },
+                    "fractionalOdds": {
+                        "numerator": 250,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302653,
+            "handicap": 0,
+            "runnerName": "Eagles 2 - Chiefs 3",
+            "sortPriority": 24,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 12000,
+                    "americanOddsInt": 12000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 121
+                    },
+                    "fractionalOdds": {
+                        "numerator": 120,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302701,
+            "handicap": 0,
+            "runnerName": "Eagles 2 - Chiefs 4",
+            "sortPriority": 25,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302694,
+            "handicap": 0,
+            "runnerName": "Eagles 2 - Chiefs 5",
+            "sortPriority": 26,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 15000,
+                    "americanOddsInt": 15000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 151
+                    },
+                    "fractionalOdds": {
+                        "numerator": 150,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302652,
+            "handicap": 0,
+            "runnerName": "Eagles 2 - Chiefs 6",
+            "sortPriority": 27,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 11000,
+                    "americanOddsInt": 11000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 111
+                    },
+                    "fractionalOdds": {
+                        "numerator": 110,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302664,
+            "handicap": 0,
+            "runnerName": "Eagles 2 - Chiefs 7",
+            "sortPriority": 28,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302702,
+            "handicap": 0,
+            "runnerName": "Eagles 2 - Chiefs 8",
+            "sortPriority": 29,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 14000,
+                    "americanOddsInt": 14000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 141
+                    },
+                    "fractionalOdds": {
+                        "numerator": 140,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302699,
+            "handicap": 0,
+            "runnerName": "Eagles 2 - Chiefs 9",
+            "sortPriority": 30,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 14000,
+                    "americanOddsInt": 14000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 141
+                    },
+                    "fractionalOdds": {
+                        "numerator": 140,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167876,
+            "handicap": 0,
+            "runnerName": "Eagles 3 - Chiefs 0",
+            "sortPriority": 31,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 2900,
+                    "americanOddsInt": 2900
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 30
+                    },
+                    "fractionalOdds": {
+                        "numerator": 29,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302681,
+            "handicap": 0,
+            "runnerName": "Eagles 3 - Chiefs 1",
+            "sortPriority": 32,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 5500,
+                    "americanOddsInt": 5500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 56
+                    },
+                    "fractionalOdds": {
+                        "numerator": 55,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167849,
+            "handicap": 0,
+            "runnerName": "Eagles 3 - Chiefs 2",
+            "sortPriority": 33,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 13000,
+                    "americanOddsInt": 13000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 131
+                    },
+                    "fractionalOdds": {
+                        "numerator": 130,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302662,
+            "handicap": 0,
+            "runnerName": "Eagles 3 - Chiefs 3",
+            "sortPriority": 34,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 6000,
+                    "americanOddsInt": 6000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 61
+                    },
+                    "fractionalOdds": {
+                        "numerator": 60,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302657,
+            "handicap": 0,
+            "runnerName": "Eagles 3 - Chiefs 4",
+            "sortPriority": 35,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 5000,
+                    "americanOddsInt": 5000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 51
+                    },
+                    "fractionalOdds": {
+                        "numerator": 50,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302646,
+            "handicap": 0,
+            "runnerName": "Eagles 3 - Chiefs 5",
+            "sortPriority": 36,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 11000,
+                    "americanOddsInt": 11000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 111
+                    },
+                    "fractionalOdds": {
+                        "numerator": 110,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302650,
+            "handicap": 0,
+            "runnerName": "Eagles 3 - Chiefs 6",
+            "sortPriority": 37,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 4300,
+                    "americanOddsInt": 4300
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 44
+                    },
+                    "fractionalOdds": {
+                        "numerator": 43,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302655,
+            "handicap": 0,
+            "runnerName": "Eagles 3 - Chiefs 7",
+            "sortPriority": 38,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 3400,
+                    "americanOddsInt": 3400
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 35
+                    },
+                    "fractionalOdds": {
+                        "numerator": 34,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302669,
+            "handicap": 0,
+            "runnerName": "Eagles 3 - Chiefs 8",
+            "sortPriority": 39,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302666,
+            "handicap": 0,
+            "runnerName": "Eagles 3 - Chiefs 9",
+            "sortPriority": 40,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302687,
+            "handicap": 0,
+            "runnerName": "Eagles 4 - Chiefs 0",
+            "sortPriority": 41,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 3000,
+                    "americanOddsInt": 3000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 31
+                    },
+                    "fractionalOdds": {
+                        "numerator": 30,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302717,
+            "handicap": 0,
+            "runnerName": "Eagles 4 - Chiefs 1",
+            "sortPriority": 42,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 2700,
+                    "americanOddsInt": 2700
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 28
+                    },
+                    "fractionalOdds": {
+                        "numerator": 27,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302656,
+            "handicap": 0,
+            "runnerName": "Eagles 4 - Chiefs 2",
+            "sortPriority": 43,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302674,
+            "handicap": 0,
+            "runnerName": "Eagles 4 - Chiefs 3",
+            "sortPriority": 44,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 4800,
+                    "americanOddsInt": 4800
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 49
+                    },
+                    "fractionalOdds": {
+                        "numerator": 48,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302711,
+            "handicap": 0,
+            "runnerName": "Eagles 4 - Chiefs 4",
+            "sortPriority": 45,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 4400,
+                    "americanOddsInt": 4400
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 45
+                    },
+                    "fractionalOdds": {
+                        "numerator": 44,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302697,
+            "handicap": 0,
+            "runnerName": "Eagles 4 - Chiefs 5",
+            "sortPriority": 46,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302649,
+            "handicap": 0,
+            "runnerName": "Eagles 4 - Chiefs 6",
+            "sortPriority": 47,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 5000,
+                    "americanOddsInt": 5000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 51
+                    },
+                    "fractionalOdds": {
+                        "numerator": 50,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302695,
+            "handicap": 0,
+            "runnerName": "Eagles 4 - Chiefs 7",
+            "sortPriority": 48,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 2000,
+                    "americanOddsInt": 2000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 21
+                    },
+                    "fractionalOdds": {
+                        "numerator": 20,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302678,
+            "handicap": 0,
+            "runnerName": "Eagles 4 - Chiefs 8",
+            "sortPriority": 49,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 6000,
+                    "americanOddsInt": 6000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 61
+                    },
+                    "fractionalOdds": {
+                        "numerator": 60,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302671,
+            "handicap": 0,
+            "runnerName": "Eagles 4 - Chiefs 9",
+            "sortPriority": 50,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167886,
+            "handicap": 0,
+            "runnerName": "Eagles 5 - Chiefs 0",
+            "sortPriority": 51,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302690,
+            "handicap": 0,
+            "runnerName": "Eagles 5 - Chiefs 1",
+            "sortPriority": 52,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52168016,
+            "handicap": 0,
+            "runnerName": "Eagles 5 - Chiefs 2",
+            "sortPriority": 53,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 15000,
+                    "americanOddsInt": 15000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 151
+                    },
+                    "fractionalOdds": {
+                        "numerator": 150,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167837,
+            "handicap": 0,
+            "runnerName": "Eagles 5 - Chiefs 3",
+            "sortPriority": 54,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 12000,
+                    "americanOddsInt": 12000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 121
+                    },
+                    "fractionalOdds": {
+                        "numerator": 120,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302680,
+            "handicap": 0,
+            "runnerName": "Eagles 5 - Chiefs 4",
+            "sortPriority": 55,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302668,
+            "handicap": 0,
+            "runnerName": "Eagles 5 - Chiefs 5",
+            "sortPriority": 56,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 23000,
+                    "americanOddsInt": 23000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 231
+                    },
+                    "fractionalOdds": {
+                        "numerator": 230,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302709,
+            "handicap": 0,
+            "runnerName": "Eagles 5 - Chiefs 6",
+            "sortPriority": 57,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 15000,
+                    "americanOddsInt": 15000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 151
+                    },
+                    "fractionalOdds": {
+                        "numerator": 150,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302715,
+            "handicap": 0,
+            "runnerName": "Eagles 5 - Chiefs 7",
+            "sortPriority": 58,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 8000,
+                    "americanOddsInt": 8000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 81
+                    },
+                    "fractionalOdds": {
+                        "numerator": 80,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302677,
+            "handicap": 0,
+            "runnerName": "Eagles 5 - Chiefs 8",
+            "sortPriority": 59,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302708,
+            "handicap": 0,
+            "runnerName": "Eagles 5 - Chiefs 9",
+            "sortPriority": 60,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 17000,
+                    "americanOddsInt": 17000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 171
+                    },
+                    "fractionalOdds": {
+                        "numerator": 170,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167800,
+            "handicap": 0,
+            "runnerName": "Eagles 6 - Chiefs 0",
+            "sortPriority": 61,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 4700,
+                    "americanOddsInt": 4700
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 48
+                    },
+                    "fractionalOdds": {
+                        "numerator": 47,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302692,
+            "handicap": 0,
+            "runnerName": "Eagles 6 - Chiefs 1",
+            "sortPriority": 62,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 7500,
+                    "americanOddsInt": 7500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 76
+                    },
+                    "fractionalOdds": {
+                        "numerator": 75,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167894,
+            "handicap": 0,
+            "runnerName": "Eagles 6 - Chiefs 2",
+            "sortPriority": 63,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 12000,
+                    "americanOddsInt": 12000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 121
+                    },
+                    "fractionalOdds": {
+                        "numerator": 120,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167897,
+            "handicap": 0,
+            "runnerName": "Eagles 6 - Chiefs 3",
+            "sortPriority": 64,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 4400,
+                    "americanOddsInt": 4400
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 45
+                    },
+                    "fractionalOdds": {
+                        "numerator": 44,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302675,
+            "handicap": 0,
+            "runnerName": "Eagles 6 - Chiefs 4",
+            "sortPriority": 65,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 5500,
+                    "americanOddsInt": 5500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 56
+                    },
+                    "fractionalOdds": {
+                        "numerator": 55,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167997,
+            "handicap": 0,
+            "runnerName": "Eagles 6 - Chiefs 5",
+            "sortPriority": 66,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 18000,
+                    "americanOddsInt": 18000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 181
+                    },
+                    "fractionalOdds": {
+                        "numerator": 180,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302707,
+            "handicap": 0,
+            "runnerName": "Eagles 6 - Chiefs 6",
+            "sortPriority": 67,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302647,
+            "handicap": 0,
+            "runnerName": "Eagles 6 - Chiefs 7",
+            "sortPriority": 68,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 6000,
+                    "americanOddsInt": 6000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 61
+                    },
+                    "fractionalOdds": {
+                        "numerator": 60,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302703,
+            "handicap": 0,
+            "runnerName": "Eagles 6 - Chiefs 8",
+            "sortPriority": 69,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 12000,
+                    "americanOddsInt": 12000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 121
+                    },
+                    "fractionalOdds": {
+                        "numerator": 120,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302665,
+            "handicap": 0,
+            "runnerName": "Eagles 6 - Chiefs 9",
+            "sortPriority": 70,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167923,
+            "handicap": 0,
+            "runnerName": "Eagles 7 - Chiefs 0",
+            "sortPriority": 71,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 2000,
+                    "americanOddsInt": 2000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 21
+                    },
+                    "fractionalOdds": {
+                        "numerator": 20,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302667,
+            "handicap": 0,
+            "runnerName": "Eagles 7 - Chiefs 1",
+            "sortPriority": 72,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 3500,
+                    "americanOddsInt": 3500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 36
+                    },
+                    "fractionalOdds": {
+                        "numerator": 35,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167863,
+            "handicap": 0,
+            "runnerName": "Eagles 7 - Chiefs 2",
+            "sortPriority": 73,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167818,
+            "handicap": 0,
+            "runnerName": "Eagles 7 - Chiefs 3",
+            "sortPriority": 74,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 3400,
+                    "americanOddsInt": 3400
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 35
+                    },
+                    "fractionalOdds": {
+                        "numerator": 34,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302704,
+            "handicap": 0,
+            "runnerName": "Eagles 7 - Chiefs 4",
+            "sortPriority": 75,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 2100,
+                    "americanOddsInt": 2100
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 22
+                    },
+                    "fractionalOdds": {
+                        "numerator": 21,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167829,
+            "handicap": 0,
+            "runnerName": "Eagles 7 - Chiefs 5",
+            "sortPriority": 76,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167786,
+            "handicap": 0,
+            "runnerName": "Eagles 7 - Chiefs 6",
+            "sortPriority": 77,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 6000,
+                    "americanOddsInt": 6000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 61
+                    },
+                    "fractionalOdds": {
+                        "numerator": 60,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302712,
+            "handicap": 0,
+            "runnerName": "Eagles 7 - Chiefs 7",
+            "sortPriority": 78,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 3800,
+                    "americanOddsInt": 3800
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 39
+                    },
+                    "fractionalOdds": {
+                        "numerator": 38,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302683,
+            "handicap": 0,
+            "runnerName": "Eagles 7 - Chiefs 8",
+            "sortPriority": 79,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 7500,
+                    "americanOddsInt": 7500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 76
+                    },
+                    "fractionalOdds": {
+                        "numerator": 75,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302705,
+            "handicap": 0,
+            "runnerName": "Eagles 7 - Chiefs 9",
+            "sortPriority": 80,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 8500,
+                    "americanOddsInt": 8500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 86
+                    },
+                    "fractionalOdds": {
+                        "numerator": 85,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167884,
+            "handicap": 0,
+            "runnerName": "Eagles 8 - Chiefs 0",
+            "sortPriority": 81,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 5500,
+                    "americanOddsInt": 5500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 56
+                    },
+                    "fractionalOdds": {
+                        "numerator": 55,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302648,
+            "handicap": 0,
+            "runnerName": "Eagles 8 - Chiefs 1",
+            "sortPriority": 82,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 4800,
+                    "americanOddsInt": 4800
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 49
+                    },
+                    "fractionalOdds": {
+                        "numerator": 48,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167952,
+            "handicap": 0,
+            "runnerName": "Eagles 8 - Chiefs 2",
+            "sortPriority": 83,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 13000,
+                    "americanOddsInt": 13000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 131
+                    },
+                    "fractionalOdds": {
+                        "numerator": 130,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167847,
+            "handicap": 0,
+            "runnerName": "Eagles 8 - Chiefs 3",
+            "sortPriority": 84,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 8500,
+                    "americanOddsInt": 8500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 86
+                    },
+                    "fractionalOdds": {
+                        "numerator": 85,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302673,
+            "handicap": 0,
+            "runnerName": "Eagles 8 - Chiefs 4",
+            "sortPriority": 85,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 5500,
+                    "americanOddsInt": 5500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 56
+                    },
+                    "fractionalOdds": {
+                        "numerator": 55,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52168012,
+            "handicap": 0,
+            "runnerName": "Eagles 8 - Chiefs 5",
+            "sortPriority": 86,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167956,
+            "handicap": 0,
+            "runnerName": "Eagles 8 - Chiefs 6",
+            "sortPriority": 87,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 11000,
+                    "americanOddsInt": 11000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 111
+                    },
+                    "fractionalOdds": {
+                        "numerator": 110,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167808,
+            "handicap": 0,
+            "runnerName": "Eagles 8 - Chiefs 7",
+            "sortPriority": 88,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 6500,
+                    "americanOddsInt": 6500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 66
+                    },
+                    "fractionalOdds": {
+                        "numerator": 65,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302686,
+            "handicap": 0,
+            "runnerName": "Eagles 8 - Chiefs 8",
+            "sortPriority": 89,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 14000,
+                    "americanOddsInt": 14000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 141
+                    },
+                    "fractionalOdds": {
+                        "numerator": 140,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302688,
+            "handicap": 0,
+            "runnerName": "Eagles 8 - Chiefs 9",
+            "sortPriority": 90,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 17000,
+                    "americanOddsInt": 17000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 171
+                    },
+                    "fractionalOdds": {
+                        "numerator": 170,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167785,
+            "handicap": 0,
+            "runnerName": "Eagles 9 - Chiefs 0",
+            "sortPriority": 91,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 10000,
+                    "americanOddsInt": 10000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 101
+                    },
+                    "fractionalOdds": {
+                        "numerator": 100,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302698,
+            "handicap": 0,
+            "runnerName": "Eagles 9 - Chiefs 1",
+            "sortPriority": 92,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 11000,
+                    "americanOddsInt": 11000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 111
+                    },
+                    "fractionalOdds": {
+                        "numerator": 110,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167934,
+            "handicap": 0,
+            "runnerName": "Eagles 9 - Chiefs 2",
+            "sortPriority": 93,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 14000,
+                    "americanOddsInt": 14000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 141
+                    },
+                    "fractionalOdds": {
+                        "numerator": 140,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167855,
+            "handicap": 0,
+            "runnerName": "Eagles 9 - Chiefs 3",
+            "sortPriority": 94,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9000,
+                    "americanOddsInt": 9000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 91
+                    },
+                    "fractionalOdds": {
+                        "numerator": 90,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302661,
+            "handicap": 0,
+            "runnerName": "Eagles 9 - Chiefs 4",
+            "sortPriority": 95,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9000,
+                    "americanOddsInt": 9000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 91
+                    },
+                    "fractionalOdds": {
+                        "numerator": 90,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52168006,
+            "handicap": 0,
+            "runnerName": "Eagles 9 - Chiefs 5",
+            "sortPriority": 96,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 17000,
+                    "americanOddsInt": 17000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 171
+                    },
+                    "fractionalOdds": {
+                        "numerator": 170,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167815,
+            "handicap": 0,
+            "runnerName": "Eagles 9 - Chiefs 6",
+            "sortPriority": 97,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9500,
+                    "americanOddsInt": 9500
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 96
+                    },
+                    "fractionalOdds": {
+                        "numerator": 95,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167875,
+            "handicap": 0,
+            "runnerName": "Eagles 9 - Chiefs 7",
+            "sortPriority": 98,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 9000,
+                    "americanOddsInt": 9000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 91
+                    },
+                    "fractionalOdds": {
+                        "numerator": 90,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52167960,
+            "handicap": 0,
+            "runnerName": "Eagles 9 - Chiefs 8",
+            "sortPriority": 99,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 19000,
+                    "americanOddsInt": 19000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 191
+                    },
+                    "fractionalOdds": {
+                        "numerator": 190,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        },
+        {
+            "selectionId": 52302651,
+            "handicap": 0,
+            "runnerName": "Eagles 9 - Chiefs 9",
+            "sortPriority": 100,
+            "result": {},
+            "runnerStatus": "ACTIVE",
+            "winRunnerOdds": {
+                "americanDisplayOdds": {
+                    "americanOdds": 22000,
+                    "americanOddsInt": 22000
+                },
+                "trueOdds": {
+                    "decimalOdds": {
+                        "decimalOdds": 221
+                    },
+                    "fractionalOdds": {
+                        "numerator": 220,
+                        "denominator": 1
+                    }
+                }
+            },
+            "previousWinRunnerOdds": []
+        }
+    ],
+    "canTurnInPlay": false,
+    "associatedMarkets": [
+        {
+            "eventId": 32052129,
+            "eventTypeId": 6423,
+            "externalMarketId": "42.362160994"
+        }
+    ],
+    "hasCashout": false,
+    "eachwayAvailable": false,
+    "legTypes": [
+        "SIMPLE_SELECTION"
+    ]
+}

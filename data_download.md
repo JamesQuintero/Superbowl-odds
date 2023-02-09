@@ -19,6 +19,9 @@ Run the following to convert this txt file to a usable json file.
 ```
 
 
+Or go to https://www.bovada.lv/sports/football/super-bowl-score-propositions/, Use Network tab in Chrome. Find the request titled "score-propositions-super-bowl-57-202302121830?lang=en". 
+
+
 ### BetMGM odds
 
 https://sports.ny.betmgm.com/en/sports/api/widget?layoutSize=Large&page=SportLobby&sportId=11&forceFresh=1  
@@ -33,6 +36,15 @@ Or go to Caesar's sportsbook (williamhill.com): https://www.williamhill.com/us/n
 
 And open up the Network tab in your browser. Find the request "?competitionIds=XXXX-xxxx-XXXX-XxxxxX"
 
+
+### Fanduel odds
+
+Or go to Fanduel Sportsbook -> Scoring, and open up the Network tab in your browser. Find the request "event-page?betexRegion=GBR&capiJurisdiction=intl&curren...."
+
+
+### Wynnbet
+
+Wynnbet has horrible reviews and a bad UI, so will not be simulating with their odds. 
 
 
 

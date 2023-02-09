@@ -14,8 +14,14 @@ class Caesars:
         self.utils = Utils()
 
         self.heatmap_path = "./data/{}/heatmap_data.csv".format(year)
-        self.caesars_odds_json_path = "./data/{}/Caesars_odds.json".format(year)
+        self.caesars_exact_score_odds_json_path = "./data/{}/Caesars_exact_score_odds.json".format(year)
+        self.caesars_squares_odds_json_path = "./data/{}/Caesars_squares_odds.json".format(year)
 
+    def get_squares_odds(self):
+        return self.get_odds(self.caesars_squares_odds_json_path)
+
+    def get_exact_score_odds(self):
+        return self.get_odds(self.caesars_exact_score_odds_json_path)
 
 
     """
@@ -32,8 +38,12 @@ class Caesars:
             ...
         }
     """
-    def get_odds(self):
-        contents = self.utils.read_json(self.caesars_odds_json_path)
+    def get_odds(self, path="./random_path"):
+        if not os.path.exists(path):
+            print("Path doesn't exist: {}".format(path))
+            return {}
+
+        contents = self.utils.read_json(path)
         squares = contents['markets'][0]['selections']
 
         to_return = {}
@@ -63,4 +73,4 @@ if __name__=="__main__":
     utils = Utils()
     year = utils.ask_year()
     analyzer = Caesars(year)
-    analyzer.get_odds()
+    print(analyzer.get_square_odds())

@@ -2,7 +2,6 @@ import json
 import csv
 import os
 
-
 class Utils:
 
     """
@@ -78,6 +77,23 @@ class Utils:
     def str_to_score(self, score_str):
         score_list = score_str.split(",")
         return [ int(score) for score in score_list]
+
+    """
+    Prints out results of calculated sorted list of score likelihoods
+    """
+    def print_heatmap_likelihoods(self, sorted_heatmap=None, sorted_square_heatmap=None):
+        def print_score_probabilities(heatmap_probabilities):
+            for row in heatmap_probabilities:
+                print("{}) {}, {}%".format(row['score'], row['count'], row['probability']*100))
+
+        if sorted_heatmap != None:
+            print("Score heatmap sorted by count:")
+            print_score_probabilities(sorted_heatmap)
+        print()
+        if sorted_square_heatmap != None:
+            print("Square game heatmap sorted by count:")
+            print_score_probabilities(sorted_square_heatmap)
+        print()
 
     """
     Reads from text file, and returns list of strings that was read from text file at path
@@ -161,9 +177,29 @@ class Utils:
 
         choice = -1
         while choice < 0 or choice > len(potential_years):
-            print("Teams playing: ")
+            print("Year: ")
             for i, year in enumerate(potential_years):
                 print("{}) {}".format(i+1, year))
             choice = int(input("Choice: "))
 
-        return potential_years[choice - 1]
+        return int(potential_years[choice - 1])
+
+    """
+    Determines which sportsbook to use. ex: caesars, fanduel, betmgm, etc.
+    """
+    def ask_sportsbook(self):
+        potential_sportsbooks = [
+            "BetMGM", 
+            "Bovada", 
+            "Caesars", 
+            "Fanduel"
+        ]
+
+        choice = -1
+        while choice < 0 or choice > len(potential_sportsbooks):
+            print("Sportsbooks: ")
+            for i, name in enumerate(potential_sportsbooks):
+                print("{}) {}".format(i+1, name))
+            choice = int(input("Choice: "))
+
+        return potential_sportsbooks[choice - 1]

@@ -3,7 +3,13 @@ import os
 import random
 
 from Utils import Utils
-from AnalyzeHeatmap_2023 import AnalyzeHeatmap_2023
+from AnalyzeHeatmap import AnalyzeHeatmap
+
+#Sportsbooks
+from BetMGM import BetMGM
+from Caesars import Caesars
+from Bovada import Bovada
+from Fanduel import Fanduel
 
 """
 Simulates betting on score squares that are considered to be profitable against the odds, 
@@ -15,8 +21,11 @@ class SimulateBetting:
     utils = None
 
     def __init__(self):
-        self.analyzer = AnalyzeHeatmap_2023()
         self.utils = Utils()
+        self.year = self.utils.ask_year()
+        self.sportsbook = self.get_sportsbook(year=self.year)
+        self.analyzer = AnalyzeHeatmap(sportsbook=self.sportsbook, year=self.year)
+        
         self.load()
 
     """
@@ -24,8 +33,8 @@ class SimulateBetting:
     """
     def load(self):
         #Loads best scores to bet on
-        self.scores_best_odds = self.analyzer.analyze_exact_scores()
-        self.squares_best_odds = self.analyzer.analyze_squares()
+        # self.scores_best_odds = self.analyzer.analyze_exact_scores()
+        # self.squares_best_odds = self.analyzer.analyze_squares()
 
         #Loads calculated odds
         raw_scores_all_odds, raw_squares_all_odds = self.analyzer.get_heatmap_likelihoods()
@@ -33,43 +42,55 @@ class SimulateBetting:
         self.squares_all_odds = { row['score']: {"probability": row['probability'], "given_odds": self.utils.get_odds_from_percentage_likelihood(row['probability'])} for row in raw_squares_all_odds }
 
         #Loads bookie odds
-        self.betMGM_score_odds = self.analyzer.betMGM.get_odds()
-        self.caesars_score_odds = self.analyzer.caesars.get_odds()
+        # self.squares_odds = self.sportsbook.get_squares_odds()
+        # self.exact_score_odds = self.sportsbook.get_exact_score_odds()
 
 
 
-    def simulate_static_bet(self):
+    # def simulate_static_bet(self):
 
-        #Goes through each line and bets $1 on each score
-        base_bet_amount = 5.6
-        total_bet_per_round = 0
-        bets = {}
-        for score in self.betMGM_score_odds:
-            # bet_amount = self.utils.get_amount_to_bet(base_bet_amount, self.scores_best_odds[score]['given_odds'], self.scores_best_odds[score]['calculated_odds'])
-            bet_amount = base_bet_amount
-            bets[score] = bet_amount
+    #     #Goes through each line and bets $1 on each score
+    #     base_bet_amount = 5.6
+    #     total_bet_per_round = 0
+    #     bets = {}
+    #     for score in self.betMGM_score_odds:
+    #         # bet_amount = self.utils.get_amount_to_bet(base_bet_amount, self.scores_best_odds[score]['given_odds'], self.scores_best_odds[score]['calculated_odds'])
+    #         bet_amount = base_bet_amount
+    #         bets[score] = bet_amount
 
-            total_bet_per_round += bet_amount
+    #         total_bet_per_round += bet_amount
 
-        print()
-        print("Total bet per round: ${}".format(total_bet_per_round))
+    #     print()
+    #     print("Total bet per round: ${}".format(total_bet_per_round))
 
-        self.simulate(self.scores_all_odds, bets, total_bet_per_round, self.betMGM_score_odds)
+    #     self.simulate(self.scores_all_odds, bets, total_bet_per_round, self.betMGM_score_odds)
 
-        self.print_amount_bet_per_score(self.scores_best_odds, self.betMGM_score_odds, base_bet_amount)
+    #     self.print_amount_bet_per_score(self.scores_best_odds, self.betMGM_score_odds, base_bet_amount)
 
 
     """
     Simulate betting on absolute scores that are expected to be profitable given the heatmap and odds
     """
-    def simulate_profitable_bets(self):
+    def simulate_exact_scores(self):
+        num_runs = 10000000
+
+        scores_best_odds = self.analyzer.analyze_exact_scores()
+
+        if not scores_best_odds:
+            print("Nothing to simulate, no scores are good to bet.")
+            return
 
         #Goes through each line and bets $1 on each score
         base_bet_amount = 1
         total_bet_per_round = 0
         bets = {}
-        for score in self.scores_best_odds:
-            bet_amount = self.utils.get_amount_to_bet(base_bet_amount, self.scores_best_odds[score]['given_odds'], self.scores_best_odds[score]['calculated_odds'])
+        # for score in scores_best_odds:
+        for i, score in enumerate(scores_best_odds):
+            # Only bet on the first score
+            if i >= 1: 
+                continue
+
+            bet_amount = self.utils.get_amount_to_bet(base_bet_amount, scores_best_odds[score]['given_odds'], scores_best_odds[score]['calculated_odds'])
             bets[score] = bet_amount
 
             total_bet_per_round += bet_amount
@@ -77,32 +98,41 @@ class SimulateBetting:
         print()
         print("Total bet per round: ${}".format(total_bet_per_round))
 
-        self.simulate(self.scores_all_odds, bets, total_bet_per_round, self.betMGM_score_odds)
+        simulated_squares = self.utils.get_simulated_scores(self.scores_all_odds, num_runs=num_runs)
+        bookie_odds = self.sportsbook.get_exact_score_odds()
 
-        self.print_amount_bet_per_score(self.scores_best_odds, self.betMGM_score_odds, base_bet_amount)
+        self.simulate(simulated_squares, self.scores_all_odds, bets, total_bet_per_round, bookie_odds=bookie_odds, num_runs=num_runs)
+        self.print_amount_bet_per_score(scores_best_odds, bookie_odds, base_bet_amount)
 
 
 
     def simulate_squares(self):
+        num_runs = 10000000
+
+        squares_best_odds = self.analyzer.analyze_squares()
+
+        if not squares_best_odds:
+            print("Nothing to simulate, no scores are good to bet.")
+            return
+
         #Goes through each line and bets $1 on each score
         base_bet_amount = 1
         total_bet_per_round = 0
         bets = {}
-        for score in self.squares_best_odds:
-            bet_amount = self.utils.get_amount_to_bet(base_bet_amount, self.squares_best_odds[score]['given_odds'], self.squares_best_odds[score]['calculated_odds'])
+        for score in squares_best_odds:
+            bet_amount = self.utils.get_amount_to_bet(base_bet_amount, squares_best_odds[score]['given_odds'], squares_best_odds[score]['calculated_odds'])
             bets[score] = bet_amount
 
             total_bet_per_round += bet_amount
 
         print()
         print("Total bet per round: ${}".format(total_bet_per_round))
-        num_runs = 10000000
 
         simulated_squares = self.utils.get_simulated_squares(self.scores_all_odds, num_runs=num_runs)
+        bookie_odds = self.sportsbook.get_squares_odds()
 
-        self.simulate(simulated_squares, self.squares_all_odds, bets, total_bet_per_round, bookie_odds=self.caesars_score_odds, num_runs=num_runs)
-
-        self.print_amount_bet_per_score(self.squares_best_odds, self.caesars_score_odds, base_bet_amount)
+        self.simulate(simulated_squares, self.squares_all_odds, bets, total_bet_per_round, bookie_odds=bookie_odds, num_runs=num_runs)
+        self.print_amount_bet_per_score(squares_best_odds, bookie_odds, base_bet_amount)
 
 
     """
@@ -183,9 +213,34 @@ class SimulateBetting:
         print()
 
 
+    def get_sportsbook(self, sportsbook=None, year=None):
+
+        if sportsbook == None:
+            sportsbook = self.utils.ask_sportsbook()
+
+        if year == None:
+            year = self.utils.ask_year()
+
+        if sportsbook.lower() == "betmgm":
+            return BetMGM(year)
+        elif sportsbook.lower() == "bovada":
+            return Bovada(year)
+        elif sportsbook.lower() == "caesars":
+            return Caesars(year)
+        elif sportsbook.lower() == "fanduel":
+            return Fanduel(year)
+
+
 
 if __name__=="__main__":
     simulator = SimulateBetting()
-    # simulator.simulate_static_bet()
-    # simulator.simulate_profitable_bets()
-    simulator.simulate_squares()
+
+    print("What to simulate:")
+    print("1) Exact Scores")
+    print("2) Squares")
+    choice = int(input("Choice: "))
+
+    if choice == 1:
+        simulator.simulate_exact_scores()
+    elif choice == 2:
+        simulator.simulate_squares()
