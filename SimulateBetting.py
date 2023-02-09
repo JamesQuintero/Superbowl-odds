@@ -119,7 +119,11 @@ class SimulateBetting:
         base_bet_amount = 1
         total_bet_per_round = 0
         bets = {}
-        for score in squares_best_odds:
+        for i, score in enumerate(squares_best_odds):
+            # Only bet on the first score
+            # if i >= 1: 
+            #     continue
+
             bet_amount = self.utils.get_amount_to_bet(base_bet_amount, squares_best_odds[score]['given_odds'], squares_best_odds[score]['calculated_odds'])
             bets[score] = bet_amount
 

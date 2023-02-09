@@ -92,7 +92,17 @@ class AnalyzeHeatmap:
                     squares_score_str = self.utils.score_to_str(item['pts_lose']%10, item['pts_win']%10)
                     if squares_score_str not in squares_heatmap:
                         squares_heatmap[squares_score_str] = 0
-                    squares_heatmap[squares_score_str] += item['count']
+                    squares_heatmap[squares_score_str] += item['count']/2
+
+                    squares_score_str2 = self.utils.score_to_str(item['pts_win']%10, item['pts_lose']%10)
+                    if squares_score_str2 not in squares_heatmap:
+                        squares_heatmap[squares_score_str2] = 0
+                    squares_heatmap[squares_score_str2] += item['count']/2
+
+                    # squares_score_str = self.utils.score_to_str(item['pts_lose']%10, item['pts_win']%10)
+                    # if squares_score_str not in squares_heatmap:
+                    #     squares_heatmap[squares_score_str] = 0
+                    # squares_heatmap[squares_score_str] += item['count']
 
                     total_games += item['count']
 
