@@ -29,7 +29,8 @@ class Utils:
     Returns "optimal" amount to bet depending on difference between calculated probability of the event and odds given
     """
     def get_amount_to_bet(self, base_bet_amount, given_odds, calculated_odds):
-        return base_bet_amount + base_bet_amount * ((given_odds - calculated_odds) / 1000)
+        perc_diff = (given_odds - calculated_odds) / calculated_odds
+        return base_bet_amount + base_bet_amount * perc_diff * 10
 
 
     """

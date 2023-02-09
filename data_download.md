@@ -53,6 +53,20 @@ https://sportsbook.draftkings.com//sites/US-SB/api/v5/eventgroups/88808/categori
 Or go to Draftking's sportsbook -> Game Props -> Correct Score, and open up the Network tab in your browser. Find the request "12130?format=json", in which 12130 is probably an event id that will change for each subsequent super bowl. 
 
 
+### BetRivers
+
+BetRivers doesn't seem to allow betting on exact scores or squares. 
+
+
+### PointsBet
+
+PointsBet doesn't seem to allow betting on exact scores or squares.
+
+
+### Unibet
+
+Unibet doesn't seem to allow betting on exact scores or squares. 
+
 
 ### Frequency data
 Frequency data (game_frequency.csv) is downloaded from https://www.pro-football-reference.com/boxscores/game-scores.htm. Copy paste all into the game_frequency.csv file. 
