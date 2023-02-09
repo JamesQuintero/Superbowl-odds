@@ -10,6 +10,7 @@ from BetMGM import BetMGM
 from Caesars import Caesars
 from Bovada import Bovada
 from Fanduel import Fanduel
+from DraftKings import DraftKings
 
 """
 Simulates betting on score squares that are considered to be profitable against the odds, 
@@ -132,7 +133,7 @@ class SimulateBetting:
         print()
         print("Total bet per round: ${}".format(total_bet_per_round))
 
-        simulated_squares = self.utils.get_simulated_squares(self.scores_all_odds, num_runs=num_runs)
+        simulated_squares = self.utils.get_simulated_squares(scores_all_odds=self.scores_all_odds, num_runs=num_runs)
         bookie_odds = self.sportsbook.get_squares_odds()
 
         self.simulate(simulated_squares, self.squares_all_odds, bets, total_bet_per_round, bookie_odds=bookie_odds, num_runs=num_runs)
@@ -233,6 +234,8 @@ class SimulateBetting:
             return Caesars(year)
         elif sportsbook.lower() == "fanduel":
             return Fanduel(year)
+        elif sportsbook.lower() == "draftkings":
+            return DraftKings(year)
 
 
 

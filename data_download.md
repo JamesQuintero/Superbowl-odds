@@ -46,6 +46,12 @@ Or go to Fanduel Sportsbook -> Scoring, and open up the Network tab in your brow
 
 Wynnbet has horrible reviews and a bad UI, so will not be simulating with their odds. 
 
+### Draftkings
+
+https://sportsbook.draftkings.com//sites/US-SB/api/v5/eventgroups/88808/categories/528/subcategories/12130?format=json
+
+Or go to Draftking's sportsbook -> Game Props -> Correct Score, and open up the Network tab in your browser. Find the request "12130?format=json", in which 12130 is probably an event id that will change for each subsequent super bowl. 
+
 
 
 ### Frequency data

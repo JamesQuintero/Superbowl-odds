@@ -54,8 +54,9 @@ class Utils:
         return random.choices(population, weights=weights, k=num_runs)
 
 
-    def get_simulated_squares(self, scores_all_odds, num_runs):
-        simulated_scores = self.get_simulated_scores(scores_all_odds, num_runs)
+    def get_simulated_squares(self, simulated_scores=None, scores_all_odds=None, num_runs=10000000):
+        if simulated_scores == None:
+            simulated_scores = self.get_simulated_scores(scores_all_odds, num_runs)
         squares = []
         for score in simulated_scores:
             score = self.str_to_score(score)
@@ -192,7 +193,8 @@ class Utils:
             "BetMGM", 
             "Bovada", 
             "Caesars", 
-            "Fanduel"
+            "Fanduel",
+            "DraftKings",
         ]
 
         choice = -1

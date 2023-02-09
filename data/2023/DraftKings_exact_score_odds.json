@@ -1,0 +1,2032 @@
+{
+    "subcategoryId": 12130,
+    "name": "Correct Score",
+    "offerSubcategory": {
+        "name": "Correct Score",
+        "subcategoryId": 12130,
+        "componentId": 204,
+        "offers": [
+            [
+                {
+                    "providerOfferId": "133547047",
+                    "eventId": "28327064",
+                    "eventGroupId": "88808",
+                    "label": "Correct Score",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 12130,
+                    "isSubcategoryFeatured": false,
+                    "betOfferTypeId": 0,
+                    "providerCriterionId": "10816",
+                    "outcomes": [
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841594_13L88808Q1363836549Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:27 KC Chiefs",
+                            "oddsAmerican": "+5000",
+                            "oddsDecimal": 51.00000000,
+                            "oddsDecimalDisplay": "51.00",
+                            "oddsFractional": "50/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841597_13L88808Q11977307665Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:30 KC Chiefs",
+                            "oddsAmerican": "+5500",
+                            "oddsDecimal": 56.00000000,
+                            "oddsDecimalDisplay": "56.00",
+                            "oddsFractional": "55/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841593_13L88808Q11383262456Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:24 KC Chiefs",
+                            "oddsAmerican": "+5500",
+                            "oddsDecimal": 56.00000000,
+                            "oddsDecimalDisplay": "56.00",
+                            "oddsFractional": "55/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841595_13L88808Q1-2110704276Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:20 KC Chiefs",
+                            "oddsAmerican": "+5500",
+                            "oddsDecimal": 56.00000000,
+                            "oddsDecimalDisplay": "56.00",
+                            "oddsFractional": "55/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841601_13L88808Q12104487022Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:23 KC Chiefs",
+                            "oddsAmerican": "+5500",
+                            "oddsDecimal": 56.00000000,
+                            "oddsDecimalDisplay": "56.00",
+                            "oddsFractional": "55/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841598_13L88808Q1707558570Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:17 KC Chiefs",
+                            "oddsAmerican": "+5500",
+                            "oddsDecimal": 56.00000000,
+                            "oddsDecimalDisplay": "56.00",
+                            "oddsFractional": "55/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841596_13L88808Q11635510403Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:20 KC Chiefs",
+                            "oddsAmerican": "+5500",
+                            "oddsDecimal": 56.00000000,
+                            "oddsDecimalDisplay": "56.00",
+                            "oddsFractional": "55/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841602_13L88808Q1-1402555271Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:27 KC Chiefs",
+                            "oddsAmerican": "+5500",
+                            "oddsDecimal": 56.00000000,
+                            "oddsDecimalDisplay": "56.00",
+                            "oddsFractional": "55/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841599_13L88808Q1-1298243078Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:24 KC Chiefs",
+                            "oddsAmerican": "+5500",
+                            "oddsDecimal": 56.00000000,
+                            "oddsDecimalDisplay": "56.00",
+                            "oddsFractional": "55/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841603_13L88808Q1355536152Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:20 KC Chiefs",
+                            "oddsAmerican": "+6000",
+                            "oddsDecimal": 61.00000000,
+                            "oddsDecimalDisplay": "61.00",
+                            "oddsFractional": "60/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841738_13L88808Q1134598020Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:28 KC Chiefs",
+                            "oddsAmerican": "+6000",
+                            "oddsDecimal": 61.00000000,
+                            "oddsDecimalDisplay": "61.00",
+                            "oddsFractional": "60/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841606_13L88808Q198601319Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:24 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841612_13L88808Q11251262893Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:17 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841605_13L88808Q11667674307Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:31 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841620_13L88808Q1-1435279613Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:21 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841614_13L88808Q1-1287553268Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 21:24 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841608_13L88808Q1-495163942Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:27 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841618_13L88808Q1-396171237Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:30 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841622_13L88808Q1-2005361633Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:24 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841610_13L88808Q11883632490Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:31 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841616_13L88808Q1-1249210292Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:27 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841600_13L88808Q1-754664393Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:17 KC Chiefs",
+                            "oddsAmerican": "+6500",
+                            "oddsDecimal": 66.00000000,
+                            "oddsDecimalDisplay": "66.00",
+                            "oddsFractional": "65/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841626_13L88808Q1696820502Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:20 KC Chiefs",
+                            "oddsAmerican": "+7000",
+                            "oddsDecimal": 71.00000000,
+                            "oddsDecimalDisplay": "71.00",
+                            "oddsFractional": "70/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841624_13L88808Q1511080934Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:26 KC Chiefs",
+                            "oddsAmerican": "+7000",
+                            "oddsDecimal": 71.00000000,
+                            "oddsDecimalDisplay": "71.00",
+                            "oddsFractional": "70/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841648_13L88808Q1985302189Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:27 KC Chiefs",
+                            "oddsAmerican": "+7000",
+                            "oddsDecimal": 71.00000000,
+                            "oddsDecimalDisplay": "71.00",
+                            "oddsFractional": "70/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841630_13L88808Q1-2015359466Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:26 KC Chiefs",
+                            "oddsAmerican": "+7000",
+                            "oddsDecimal": 71.00000000,
+                            "oddsDecimalDisplay": "71.00",
+                            "oddsFractional": "70/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841632_13L88808Q1-244802000Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:31 KC Chiefs",
+                            "oddsAmerican": "+7000",
+                            "oddsDecimal": 71.00000000,
+                            "oddsDecimalDisplay": "71.00",
+                            "oddsFractional": "70/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841640_13L88808Q1-2012654348Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:20 KC Chiefs",
+                            "oddsAmerican": "+7000",
+                            "oddsDecimal": 71.00000000,
+                            "oddsDecimalDisplay": "71.00",
+                            "oddsFractional": "70/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841636_13L88808Q1-1547713856Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:24 KC Chiefs",
+                            "oddsAmerican": "+7000",
+                            "oddsDecimal": 71.00000000,
+                            "oddsDecimalDisplay": "71.00",
+                            "oddsFractional": "70/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841642_13L88808Q11096944507Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:31 KC Chiefs",
+                            "oddsAmerican": "+7000",
+                            "oddsDecimal": 71.00000000,
+                            "oddsDecimalDisplay": "71.00",
+                            "oddsFractional": "70/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841638_13L88808Q1-555478177Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:17 KC Chiefs",
+                            "oddsAmerican": "+7000",
+                            "oddsDecimal": 71.00000000,
+                            "oddsDecimalDisplay": "71.00",
+                            "oddsFractional": "70/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841628_13L88808Q1-556628768Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:34 KC Chiefs",
+                            "oddsAmerican": "+7000",
+                            "oddsDecimal": 71.00000000,
+                            "oddsDecimalDisplay": "71.00",
+                            "oddsFractional": "70/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841682_13L88808Q1-535045255Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 26:20 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841852_13L88808Q1-1947658683Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 35:21 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841672_13L88808Q1-746421986Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:27 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841704_13L88808Q1855856721Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:37 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841808_13L88808Q1-995045110Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:23 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841847_13L88808Q1-270898972Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 14:24 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841867_13L88808Q1527082902Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 19:24 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841813_13L88808Q1-2060015430Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:26 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841650_13L88808Q1-338132611Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:13 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841897_13L88808Q1387899605Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:14 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841666_13L88808Q1-945539505Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:21 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841734_13L88808Q1-970852767Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:37 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841680_13L88808Q1-515170581Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:23 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841835_13L88808Q1397325228Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 38:31 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841652_13L88808Q1-1235677772Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:34 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841781_13L88808Q1-864927819Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 16:23 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841818_13L88808Q11652108318Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:28 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841862_13L88808Q11507279320Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:33 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841670_13L88808Q1705454803Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:21 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841692_13L88808Q11368006440Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:34 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841656_13L88808Q1203839461Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:17 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841710_13L88808Q1-1897613584Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:23 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841795_13L88808Q1-617015842Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 21:28 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841722_13L88808Q1940774485Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:30 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841706_13L88808Q11863050277Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:31 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841662_13L88808Q1-734211312Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 21:27 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841686_13L88808Q1-1439839956Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 26:23 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841820_13L88808Q1-1644041538Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 21:17 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841720_13L88808Q184086393Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:30 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841684_13L88808Q1-1958771481Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:21 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841750_13L88808Q1-1210295026Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:38 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841658_13L88808Q11996432333Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:23 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841802_13L88808Q1-1171693122Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:20 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841765_13L88808Q1-727925013Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:24 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841761_13L88808Q11177141422Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:26 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841819_13L88808Q1939784346Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:20 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841732_13L88808Q1601835755Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:34 KC Chiefs",
+                            "oddsAmerican": "+7500",
+                            "oddsDecimal": 76.00000000,
+                            "oddsDecimalDisplay": "76.00",
+                            "oddsFractional": "75/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841828_13L88808Q12106937756Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 26:27 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841744_13L88808Q1-762971180Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:21 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845600_13L88808Q1-1703582525Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 26:28 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841646_13L88808Q1-715066666Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:17 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841877_13L88808Q1-1422329071Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:34 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841900_13L88808Q1165078904Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 38:28 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430900057_13L88808Q1895024984Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 38:21 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841740_13L88808Q1-1814873673Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:27 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841804_13L88808Q1-652901683Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 14:28 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841848_13L88808Q11102349531Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 14:20 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430963613_13L88808Q1-1551527703Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 19:14 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430900938_13L88808Q1-1754440327Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 38:41 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841724_13L88808Q1220993741Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 13:27 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841814_13L88808Q1-1353757545Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 10:13 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841916_13L88808Q159777255Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 13:10 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841878_13L88808Q1-30003415Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:35 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841668_13L88808Q11311424856Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:23 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841918_13L88808Q1557234222Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:22 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841799_13L88808Q11753261056Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:23 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845692_13L88808Q1-246607611Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:33 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841841_13L88808Q1596717146Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:13 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841907_13L88808Q11048117028Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:36 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841698_13L88808Q1-1485069631Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:16 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845999_13L88808Q1-885263697Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 36:30 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841688_13L88808Q11580495552Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:22 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841789_13L88808Q1-2006425059Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 14:17 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845986_13L88808Q11096472518Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 21:35 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841836_13L88808Q11767506714Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 33:23 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845699_13L88808Q11695617929Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:29 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430900059_13L88808Q1-2064985807Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 35:31 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841787_13L88808Q1-787247734Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:10 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841869_13L88808Q1-2032836210Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 26:24 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841861_13L88808Q1-1371172302Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 26:29 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841821_13L88808Q1669574971Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:19 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841882_13L88808Q11279744830Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:21 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841700_13L88808Q11978722832Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:31 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841903_13L88808Q12028948441Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 35:38 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841714_13L88808Q1546791442Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 16:13 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841783_13L88808Q1-160124621Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 19:20 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841851_13L88808Q11657034599Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:25 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430979032_13L88808Q1-1455608285Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 38:23 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841825_13L88808Q1-1776730651Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:31 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845592_13L88808Q1-1648095435Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 19:27 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841742_13L88808Q1758621262Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:20 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845593_13L88808Q1-237905194Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:37 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841807_13L88808Q1-2089194229Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 29:24 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841860_13L88808Q11811599915Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 25:28 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841771_13L88808Q1-814439969Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:10 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841846_13L88808Q1-268780350Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:34 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841876_13L88808Q11985063755Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:14 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841696_13L88808Q11505039347Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:13 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841654_13L88808Q11426003859Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 21:31 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841812_13L88808Q12052245730Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:29 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841676_13L88808Q1-1865324104Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:30 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841748_13L88808Q1-1206927147Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:16 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841809_13L88808Q11607564327Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:23 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841757_13L88808Q11394771661Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 10:17 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841902_13L88808Q11200751522Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 10:27 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841634_13L88808Q12138528448Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 33:27 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841678_13L88808Q11246661300Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 16:20 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845982_13L88808Q12014438441Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 35:14 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841923_13L88808Q1-273552747Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 35:28 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841899_13L88808Q1-366357262Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:31 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841728_13L88808Q11795631370Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:19 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841883_13L88808Q1-854791603Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 16:24 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841866_13L88808Q12095555417Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 13:24 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841817_13L88808Q1-920870118Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 29:26 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841904_13L88808Q11451521472Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 22:20 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845613_13L88808Q1-1734034024Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 13:26 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430846253_13L88808Q11464214560Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:17 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841769_13L88808Q1722476900Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 19:13 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841873_13L88808Q1203453389Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:13 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841845_13L88808Q1-346606327Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:38 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841863_13L88808Q1-1098116283Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 16:19 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841815_13L88808Q1-1523927066Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 13:20 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430900940_13L88808Q1870952079Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 41:24 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841674_13L88808Q11057194680Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:33 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841849_13L88808Q1-1833501674Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:19 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841913_13L88808Q1-411041788Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:22 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841905_13L88808Q11119503856Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 37:24 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841726_13L88808Q1-225805012Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:10 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841797_13L88808Q1-1707781366Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 37:31 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841871_13L88808Q1-1977769232Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 38:35 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841801_13L88808Q1-288991476Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 29:23 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841865_13L88808Q1741240443Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 22:24 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430900016_13L88808Q11486639784Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 40:34 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841756_13L88808Q11225073650Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 21:26 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841708_13L88808Q1-333775887Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 33:30 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841843_13L88808Q12061362173Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:16 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841909_13L88808Q11840869328Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:28 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845599_13L88808Q12010369899Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:13 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841660_13L88808Q1-925019561Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 13:16 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841914_13L88808Q1-1240174736Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 21:14 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841803_13L88808Q11180575953Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:13 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841806_13L88808Q1164349757Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 21:23 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841826_13L88808Q1-789364653Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 24:28 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841886_13L88808Q1-1260146936Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:27 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841752_13L88808Q1-1248777392Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 13:17 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841718_13L88808Q1-450862244Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:13 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845991_13L88808Q1-168890100Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 14:21 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841829_13L88808Q11299189049Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 10:20 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841915_13L88808Q1165734608Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:13 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845693_13L88808Q191474968Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:22 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845984_13L88808Q1-2135610419Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:21 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841702_13L88808Q1816729076Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:29 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841870_13L88808Q1-775310751Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:22 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841834_13L88808Q1732423798Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 38:24 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1431297212_13L88808Q1-1330158469Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 41:35 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841694_13L88808Q1-888292474Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:24 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845606_13L88808Q12120349457Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:28 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841690_13L88808Q11401786360Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 30:17 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845703_13L88808Q1935983980Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:38 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841933_13L88808Q1620371320Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 31:30 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841644_13L88808Q1495072403Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 37:34 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841664_13L88808Q1477550516Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 28:24 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841832_13L88808Q1-1677224788Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:21 KC Chiefs",
+                            "oddsAmerican": "+8000",
+                            "oddsDecimal": 81.00000000,
+                            "oddsDecimalDisplay": "81.00",
+                            "oddsFractional": "80/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1431236611_13L88808Q12143604204Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:35 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1431493297_13L88808Q11591546546Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:35 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841910_13L88808Q1473000544Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 26:31 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841830_13L88808Q1-1550597872Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 20:28 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841831_13L88808Q1-1730389962Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 16:27 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841833_13L88808Q1-548861531Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 13:34 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430979034_13L88808Q1-1397969629Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 27:35 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841858_13L88808Q1-1414215857Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:38 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841779_13L88808Q1-326402351Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:34 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430927647_13L88808Q1345291238Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 21:13 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430845598_13L88808Q11393037891Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 22:27 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430981930_13L88808Q1-522009641Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 34:38 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841856_13L88808Q11652451017Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 26:21 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430841880_13L88808Q1961617891Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 17:29 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        },
+                        {
+                            "providerOutcomeId": "0QA133547047#1430979102_13L88808Q1-776489945Q20",
+                            "providerId": 2,
+                            "providerOfferId": "133547047",
+                            "label": "PHI Eagles 23:38 KC Chiefs",
+                            "oddsAmerican": "+9000",
+                            "oddsDecimal": 91.00000000,
+                            "oddsDecimalDisplay": "91.00",
+                            "oddsFractional": "90/1"
+                        }
+                    ],
+                    "offerUpdateState": "0",
+                    "offerSequence": 1,
+                    "source": "3",
+                    "displayGroupId": "3",
+                    "main": false
+                }
+            ]
+        ]
+    }
+}
